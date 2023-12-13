@@ -1,0 +1,6 @@
+USER: How was Anne Frank’s diary discovered?
+temperature: 0.3, maxNewTokens: 1040, repetitionPenalty: 1.2
+---
+BOT: [['How was Anne Frank’s diary discovered?', ' Anne Frank\'s diary, which is a diary written by the young Jewish woman during World War II and her time at the Dachau concentration camp in Germany, was discovered accidentally on March 25, 1947. The diary was found hidden under layers of books in a closet at Otto Frank\'s home in Amsterdam. It contained entries from September 30 to October 8, 1944, and later became known as the "Anne Frank Diaries." Anne Frank wrote about her experiences during this time period, which included hiding from Nazi forces while she was imprisoned in a concentration camp. The diary has been an important source of information for historians since it documented not only the events that unfolded but also the personal struggles and emotions experienced by the young writer.']]
+
+

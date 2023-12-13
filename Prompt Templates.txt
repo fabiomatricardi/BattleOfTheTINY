@@ -1,0 +1,98 @@
+https://gpus.llm-utils.org/llama-2-prompt-template/
+
+VICUNA STYLE PROMPT TEMPLATE
+
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. 
+USER: hello, who are you? 
+ASSISTANT: 
+
+
+ALPACA STYLE PROMPT TEMPLATE
+
+Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n
+
+### Instruction:\n{instruction}
+
+### Response:"
+
+
+
+Methodology
+I am not a researcher, so I will use a really basic evaluation metric: I will consider:
+
+Fluency
+accuracy
+Relevance (prompt understanding)
+User Satisfaction
+Inference time
+Context understanding/generation
+Every criteria will get a score from 0 to 3: 0 is Very Bad, 1 is Bad, 2 Medium and 3 is Good. So the maximum score for each question is 18 and will be evaluated for every single LLM on the same prompt type.
+
+
+Informational: In this category, the prompts are designed to extract specific information or facts from the AI. It could involve asking questions like “What is the capital of France?” or “When was the Eiffel Tower built?” The goal is to obtain accurate and concise information from the AI.
+Creative: Creative prompts aim to inspire the AI to generate imaginative and artistic content. These prompts encourage the AI to create stories, poems, song lyrics, or even visual art. For example, you could ask the AI to “Write a short story about a magical adventure in a hidden forest.”
+Problem-Solving: Problem-solving prompts focus on utilizing the AI’s capabilities to find solutions to specific problems or challenges. These prompts can involve asking for recommendations, strategies, or advice. For instance, you might ask the AI, “How can I improve my time management skills?” or “What are some effective ways to reduce plastic waste?”
+Instructional: Instructional prompts involve requesting step-by-step instructions or guidance from the AI. These prompts are useful for learning new skills or completing tasks. For example, you could ask the AI, “Can you provide a recipe for homemade pizza dough?” or “How do I change the oil in my car?”
+Reflective: Reflective prompts encourage the AI to provide thoughtful insights or engage in philosophical discussions. These prompts involve asking open-ended questions that prompt the AI to reflect on abstract concepts or offer personal opinions. You might ask the AI, “What is the meaning of life?” or “What are your thoughts on the nature of consciousness?”
+Predictive: Predictive prompts involve requesting the AI to make predictions or projections based on available data or patterns. These prompts can be used for forecasting trends, analyzing data, or making informed decisions. An example of a predictive prompt could be, “What will be the global population by the year 2050 based on current growth rates?”
+
+
+informational: “How was Anne Frank’s diary discovered?”
+creative: “Write dialogue between a detective and a suspect”
+problem solving: “Suggest a daily schedule for a busy professional”
+instructional: 
+“Extract the main points of this text: {long text here}”
+rewrite  in an easy to understand tone the following text: 
+make more concise the following text: 
+
+reflective: “How can I improve my romance life?”
+predictive: “Predict the impact of artificial intelligence on human employment and education.”
+
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
+The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+
+from https://arxiv.org/abs/2310.06694
+
+
+Hyper-parameters used
+I decided to use the same configuration setup for all the models:
+
+n_ctx=1024
+n_batch=128
+temperature  = 0.7, 
+max_tokens=1024, 
+top_k=20, 
+top_p=0.9,
+repeat_penalty=1.15
+
+
+
+make it more concise
+
+rewrite the text in an easy to understand tone
+
+```
+write a short blog post about Artificial intelligence and impact on nature and environment.
+Create also a catchy title and subheading.
+
+Format the output as follows:
+
+TITLE: // your catchy title
+
+SUBHEADING: // your generated subheading for the blog post
+
+BLOG POST: // your short blog post
+
+```
+
+
+
+from transformers import AutoTokenizer
+tokenizer = AutoTokenizer.from_pretrained("MBZUAI/LaMini-Flan-T5-77M")
+t = tokenizer.tokenize("I have a new GPU!")
+print(t)
+print(len(t))
+['▁I', '▁have', '▁', 'a', '▁new', '▁GPU', '!']
+7
+
+

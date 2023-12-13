@@ -1,0 +1,1027 @@
+time: 2023-12-12 10:32:58.224863
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+Answer the question based on the context below. Keep the answer short. Respond "Unsure about answer" if not sure about the answer.
+
+Context: <context>
+How to write articles that people want to read | by Sunil Sandhu | JavaScript in Plain English. How to write articles that people want to read. Here are a bunch of recommendations that the In Plain English team consider to be best practices when writing articles that your readers will find engaging and easy-to-read. Written  by Sunil Sandhu. Take a moment to give your article a good title and subtitle. Try to make them concise, yet compelling. If in doubt, ask yourself: “Would I find this title interesting enough that I would want to continue to read the article?” Don’t create weird formats for your headings and subheadings. Just keep them simple and make sure that the formatting for each heading/subheading in your article is consistent with one another. If you are planning on numbering your headings, here are some examples for you to refer to… Half-baked articles look bad. If you cannot be bothered to take the time to write your article in a way that has good structure, good punctuation, good spelling, and good formatting, what makes you think that somebody else is going to spend good time reading it? Take pride in your work. Your writing is an extension of who you are as a person, especially in a professional context. If you are writing about code, it is likely that you have aspirations to work with software, or already do. The words you write represent that, so make sure you do a good job of representing yourself! Capitalise the start of every sentence. Regarding articles that have a 2–3min read time - have you definitely covered everything that your article needs and your readers expect?  Following on from the previous point, research has shown that articles of 7–8mins appear to perform best. If you are not confident that your level of English is perfect/near-perfect, try running your article through some writing software that has the language set to English (UK) or English (US). Try writing your article in Google Docs. Some people swear by Grammarly. While Grammarly is a nice tool for improving the quality of your content, we have still come across far too many writers who swear they have used Grammarly to check their work, yet it still contains simple errors. Even if you're confident in your English, I would still recommend using these tools. If in doubt about those any of those three previous points, go ahead and read your own article back. Consider whether you still think your article is good enough for other people to spend time reading. Hopefully it is! 🙂 Don’t overuse emojis! Don’t overuse GIFs and memes.
+</context>
+
+Question: What kind of articles perform best?
+
+Answer:
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: The performance of an article largely depends on various factors such as the topic, audience, competition, and many more. However, here are some general tips that can help you write engaging articles with good readability:
+
+1. Keep it short - Aim for a minimum word count of 2-3 minutes to make sure your readers don't lose interest before they even start reading the article. This means breaking up long paragraphs into smaller, more digestible chunks and using subheadings or bullet points to keep things organized.
+2. Use clear language - Avoid cliches, jargon, and overly technical terms that may confuse your readers. Make sure you use simple words with a straightforward meaning without too much fluffiness around them. Also, make sure to proofread your work before publishing it as mistakes can easily slip through if the content is well-written but not properly edited.
+3. Use engaging and interesting content - Your articles should be informative yet entertaining for readers by providing valuable information in a relatable way that resonates with their interests or concerns. This means creating compelling stories, using relevant examples/anecdotes from your own experience, and incorporating humor where necessary to keep things lighthearted without losing the seriousness of the topic at hand.
+4. Use active voice - Active voice is when you use words that do something rather than just being passive. For example: "This article will provide an overview on how to write articles that people want to read." Instead, it would be more effective if you used a descriptive phrase like "How to Write Articles That People Will Love" or even better yet "The Ultimate Guide to Writing Content Your Readers Will Devour".
+5. Use bullet points and subheadings - Bullet points are great for summarizing long paragraphs, while subheadings can help break up longer articles into more manageable chunks that readers can easily skim through. This makes it easier for them to find the information they're looking for without having to read every word in a dense article.
+6. Be concise - Don't be afraid to cut out unnecessary words and phrases just because you think your writing is too long or flowery-sounding. Aim for a clear, crisp message that doesn't skimp on the important information while still leaving enough room for readers to engage with it in their own way.
+7. Proofread - Spelling and grammar mistakes can easily slip through if your writing is well-written but not properly edited. It's essential to take the time to proofread before publishing, especially since there are so many ways people will be able to access articles online nowadays (e.g., on their phone or tablet).
+8. Be authentic - Your content should always align with your personal values and beliefs in order for it to resonate with readers who may have different perspectives than you do. This means being truthful, transparent, and genuine while also staying true to yourself as a person.
+Generated in 0:02:40.687434
+PromptTokens: Prompt Tokens: 644   Output Tokens: Out Tkns: 640  Total Tokens: Total Tkns: 1284
+
+---
+
+
+time: 2023-12-12 10:38:20.681262
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+reply to the user question, using only the provided following context: if the information to answer is not in the given context, reply "I cannot reply". 
+
+<context>
+How to write articles that people want to read | by Sunil Sandhu | JavaScript in Plain English. How to write articles that people want to read. Here are a bunch of recommendations that the In Plain English team consider to be best practices when writing articles that your readers will find engaging and easy-to-read. Written  by Sunil Sandhu. Take a moment to give your article a good title and subtitle. Try to make them concise, yet compelling. If in doubt, ask yourself: “Would I find this title interesting enough that I would want to continue to read the article?” Don’t create weird formats for your headings and subheadings. Just keep them simple and make sure that the formatting for each heading/subheading in your article is consistent with one another. If you are planning on numbering your headings, here are some examples for you to refer to… Half-baked articles look bad. If you cannot be bothered to take the time to write your article in a way that has good structure, good punctuation, good spelling, and good formatting, what makes you think that somebody else is going to spend good time reading it? Take pride in your work. Your writing is an extension of who you are as a person, especially in a professional context. If you are writing about code, it is likely that you have aspirations to work with software, or already do. The words you write represent that, so make sure you do a good job of representing yourself! Capitalise the start of every sentence. Regarding articles that have a 2–3min read time - have you definitely covered everything that your article needs and your readers expect?  Following on from the previous point, research has shown that articles of 7–8mins appear to perform best. If you are not confident that your level of English is perfect/near-perfect, try running your article through some writing software that has the language set to English (UK) or English (US). Try writing your article in Google Docs. Some people swear by Grammarly. While Grammarly is a nice tool for improving the quality of your content, we have still come across far too many writers who swear they have used Grammarly to check their work, yet it still contains simple errors. Even if you're confident in your English, I would still recommend using these tools. If in doubt about those any of those three previous points, go ahead and read your own article back. Consider whether you still think your article is good enough for other people to spend time reading. Hopefully it is! 🙂 Don’t overuse emojis! Don’t overuse GIFs and memes.
+</context>
+
+What kind of articles perform best?
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: 1. Articles that are well-researched, factually accurate, and provide useful information to the reader. These types of articles typically have a high readability score on platforms like Google Docs or Pocket.
+2. Short, engaging articles with clear calls-to-action (CTAs) for readers who want to take action after reading them. These types of articles often perform well in social media and news feeds due to their concise nature.
+3. Articles that are visually appealing through the use of images or videos. These types of articles can be more engaging for readers, as they provide a sense of immersion into the article's subject matter.
+Generated in 0:01:31.666714
+PromptTokens: Prompt Tokens: 640   Output Tokens: Out Tkns: 143  Total Tokens: Total Tkns: 783
+
+---
+
+
+time: 2023-12-12 10:42:28.765614
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+reply to the user question, using only the provided following context: if the information to answer is not in the given context, reply "I cannot reply". 
+
+<context>
+How to write articles that people want to read | by Sunil Sandhu | JavaScript in Plain English. How to write articles that people want to read. Here are a bunch of recommendations that the In Plain English team consider to be best practices when writing articles that your readers will find engaging and easy-to-read. Written  by Sunil Sandhu. Take a moment to give your article a good title and subtitle. Try to make them concise, yet compelling. If in doubt, ask yourself: “Would I find this title interesting enough that I would want to continue to read the article?” Don’t create weird formats for your headings and subheadings. Just keep them simple and make sure that the formatting for each heading/subheading in your article is consistent with one another. If you are planning on numbering your headings, here are some examples for you to refer to… Half-baked articles look bad. If you cannot be bothered to take the time to write your article in a way that has good structure, good punctuation, good spelling, and good formatting, what makes you think that somebody else is going to spend good time reading it? Take pride in your work. Your writing is an extension of who you are as a person, especially in a professional context. If you are writing about code, it is likely that you have aspirations to work with software, or already do. The words you write represent that, so make sure you do a good job of representing yourself! Capitalise the start of every sentence. Regarding articles that have a 2–3min read time - have you definitely covered everything that your article needs and your readers expect?  Following on from the previous point, research has shown that articles of 7–8mins appear to perform best. If you are not confident that your level of English is perfect/near-perfect, try running your article through some writing software that has the language set to English (UK) or English (US). Try writing your article in Google Docs. Some people swear by Grammarly. While Grammarly is a nice tool for improving the quality of your content, we have still come across far too many writers who swear they have used Grammarly to check their work, yet it still contains simple errors. Even if you're confident in your English, I would still recommend using these tools. If in doubt about those any of those three previous points, go ahead and read your own article back. Consider whether you still think your article is good enough for other people to spend time reading. Hopefully it is! 🙂 Don’t overuse emojis! Don’t overuse GIFs and memes.
+</context>
+
+Question: do you think the following remarks are coming from the mentioned article? "1. Articles that are well-researched, factually accurate, and provide useful information to the reader. These types of articles typically have a high readability score on platforms like Google Docs or Pocket.
+2. Short, engaging articles with clear calls-to-action (CTAs) for readers who want to take action after reading them. These types of articles often perform well in social media and news feeds due to their concise nature.
+3. Articles that are visually appealing through the use of images or videos. These types of articles can be more engaging for readers, as they provide a sense of immersion into the article's subject matter."
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Based on your provided context and recommendations, it seems like you would prefer well-researched, factually accurate content that provides useful information to the reader. These types of articles typically have high readability scores in Google Docs or Pocket platforms, are short, engaging with clear CTA's for readers who want to take action after reading them and perform well on social media and news feeds due to their concise nature.
+Generated in 0:00:30.832143
+PromptTokens: Prompt Tokens: 790   Output Tokens: Out Tkns: 91  Total Tokens: Total Tkns: 881
+
+---
+
+
+time: 2023-12-12 10:47:53.764413
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+rewrite the following text in informal tone using easy English. The article is about a new Large Language Model called Orca2, created by Microsoft.
+<text>
+I can't wait to unpack the intricacies of oru's reasoning capabilities now orcat 2 is a step forward in teaching small language models to reason but can you tell tell us why Veer away from the go-to approach of imitation learning it's quite the Paradigm Shift instead of just mimicking larger models orcu is built to navigate different tasks using multiple reasoning strategies this Fosters more independent strategic thinking fascinating so does this mean orcu essentially learns how to learn exactly it's learning to select the most effective reasoning method per task not just a one strategy fits all that sounds empowering but how does Orca 2 perform compared to let's say larger models out there surprisingly well it not only surpasses similar sized models but even Rivals models 5 to 10 times its size in complex tasks and that's without extra data during zero shot settings astounding now we've seen language models handle prompts but how well does Orca 2 tackle reasoning in Practical examples let's take this scenario where two characters John and Mark interact with a ball Orca 2 brilliantly deduces their individual perspectives based on their knowledge something its counterparts didn't quite nail so distinguishing perspectives is a part of its reasoning what else is orca 2 bringing to the table apart from perspective handling it's the methodical step-by-step reasoning and adjusting strategies depending on the complexity that make orcu exceptional and that's ultimately why we're seeing such impressive Benchmark results right absolutely by fine-tuning and targeting specific reasoning processes it's a GameChanger for smaller models wow Cleo diving into Orca 2 has been quite the journey thanks for shedding light on this Innovative leap I love discussing it Charlie thanks for having me anyone curious about orca 2 dive into the paper it's open source and a treasure Trove of insights for our listeners that's a wrap on episode 29 stay curious and join us next time on paper brief.
+</text.
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Wow, what an informative article about Orca 2! It sounds like this Large Language Model is quite impressive indeed - especially considering its size compared to other models in the market. The way it performs complex tasks and surpasses similar-sized models without extra data during zero shot settings are truly remarkable.
+
+This shows that Orca 2 has a methodical approach towards reasoning, which makes it exceptional as opposed to simply mimicking larger models' abilities. It also highlights the importance of fine-tuning and targeting specific reasoning processes in order to achieve impressive benchmark results. Overall, this article provides valuable insights into Orca 2 that anyone interested can learn from!
+Generated in 0:01:13.678431
+PromptTokens: Prompt Tokens: 504   Output Tokens: Out Tkns: 150  Total Tokens: Total Tkns: 654
+
+---
+
+
+time: 2023-12-12 10:54:20.634610
+ Temp: 0.42 - MaxNewTokens: 5736 - RepPenalty: 1.5 
+PROMPT: 
+you are a helpful writer assistant.
+
+### Input:
+rewrite the following text in informal tone using intermediate English. The article is about a new Large Language Model called Orca2, created by Microsoft.
+<text>
+The article discusses how large language models llms are revolutionizing the way humans and machines interact,
+making their interactions more natural and sophisticated. They are improving user experiences in areas like   
+coding web searches chat, bots customer service, content creation, and other industries. To teach smaller     
+model models how to use reasoning techniques such as step-by-step processing recall, generate recall reason   
+generate extract, and direct answer methods. In Orca 2, we use more capable llms to demonstrate various       
+reasoning strategies across different tasks, including creating content that matches the style of teachers    
+they often struggle with matching their reasoning skills. We present them with intricate prompts designed to  
+elicit specific strategic behaviors during training phase. This technique is called Prompt eraser which makes 
+Orca 2 caution Reasoner because it learns not only how to execute specific reasoning steps but also strategize
+at a higher level how to approach. The article discusses the importance of improving instruction tuning in    
+training language models, including learning from input output pairs where the input is a natural language    
+task description and the output. It also highlights the potential for giving smaller model better reasoning   
+capabilities as well as providing improved zero shot and reasoning abilities. The article discusses the       
+concept of explanation tuning, which involves training AI models using more detailed and expressive reasoning 
+signals to extract complex questions and solve multi-step problems. It also highlights how this method is used
+by different types of tasks such as logic intensive tasks or gp4, and how it can improve understanding of     
+complex reasoning processes and generalize to other tasks in previous work. The article discusses how to train
+a cautious reasoning AI model, which involves learning the strategy and algorithm used in complex reasoning   
+tasks. It suggests that it is important for smaller models to choose the best solution strategy based on their
+performance and feedback from previous models. This approach can help improve the quality of responses by     
+providing more flexibility and adaptability to different scenarios. The article provides a concise summary of 
+the difference between Orca 2 and its use in training student models on richer and more expressive reasoning  
+signals. It suggests that Sensational Reasoning Tune is used to train students on complex zero shot reasoning 
+tasks by using system instructions, grouping user prompts into distinct clusters, creating a data set with    
+system instruction, user prompt LMD answer triplets, and selecting the most effective solution strategy based 
+on the problem rather than blindly imitating the reasoning behavior of more powerful models. The article      
+provides information about the training split of 1,448 high quality tasks that filter out synthetically       
+generated tasks, including text classification claim verification data 2, text generation logic math multiple 
+choice questions open-ended question answering reading comprehension and so on each category. It also mentions
+a combination of 1 million GPT 4 data from Orca 1 and orca 2's 87,000 data for four epics. The article        
+discusses the development of a new data set with approximately 817k training instances and compares it to     
+other models in the Llama 2 model. It also highlights how these models have been fine-tuned for understanding 
+explanations, problem-solving steps, and complex instructions using an API version. The article provides a    
+comparison between Orca 2 and several state-of-the-art models, including the GMAT, Sat Drop, Mt Benchmark, ACI
+bench, Hswag, LMT, and Ai2 reasoning challenge. It also compares them with other benchmarks to assess their   
+open-ended generation summarization safety biases and comprehension capabilities in different contexts. The   
+article discusses the use of formatting guidelines in system messages to improve performance, including a     
+variety of different types of tasks and classification tasks. It also notes that these categories require     
+extraction from multiple choice questions to extract the correct answer in response or span from context.     
+Additionally, it mentions how models may not always adhere to these formatting guidelines for all model       
+responses for consistency. The article discusses the evaluation settings and methods used to assess           
+performance of orca 2 models, including a detailed breakdown of performance across different tasks in an      
+appendix. It also notes that the use of cautionary system message provides small gains over the empty system  
+message. The article discusses the evaluation of language understanding and knowledge of large language models
+LLMS using benchmarks such as MML Arc easy and Arc challenge, which show that Orca 2 to 13B outperforms models
+of the same size. We also evaluated the model's ability to engage in multi-turn conversations using the mount 
+bench data set and evaluate its capabilities for multi-turn conversational settings. The article discusses how
+the use of language learning models llms in training day data sections raises concerns about implicit and     
+explicit toxic truthfulness content, which is often considered to be complex. It also highlights that using   
+grounding evaluation frameworks for each model may increase the hallucination rate by 77% and 62%. The article
+discusses the evaluation of language models llms in terms of grounding and safety for grounding evaluation,   
+including their accuracy and reliability. The article discusses the impact of task specific data on story     
+reordering by conducting experiments on publicly available data sets and using a measurement framework to     
+assess the model's tendency to violate responsible AI guidelines. It also highlights that large language      
+models trained on vast amounts of data can unintentionally reflect the biases present in source data, which   
+could result in biased or unfair outputs. Additionally, it suggests that the performance of other models such 
+as chat GPT Orca One Lama and Wizard LM may be exploitatively used for malicious purposes. Orca 2 is a model  
+that uses data with randomness to simulate zero shot settings and perform well in these settings. It has      
+improved performance by using few shots, but it does not show the same improvements when used sparingly. The  
+Model size can also introduce randomness leading to non-deterministic responses to different system           
+instructions. However, more detailed studies are needed to better quantify these risks. 10 small model        
+capacity post training can help the model learn how to solve a task but it doesn't necessarily teach new      
+knowledge as such. This model should be designed for research settings and tested in low-level applications   
+without additional analysis to assess potential harm or bias.
+</text>
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: The article discusses how large language models llms are revolutionizing the way humans and machines interact, making their interactions more natural and sophisticated. They are improving user experiences in areas like coding web searches chat bots customer service content creation, and other industries. To teach smaller model models how to use reasoning techniques such as step-by-step processing recall reason for recall reason, they use larger llms that demonstrate various reasoning strategies across different tasks including creating content that matches the style of teachers often struggle with matching their reasoning skills. We present them with intricate prompts designed to elicit specific behaviors during training phase. This technique is called Prompt eraser which makes Orca 2 caution Reasoner because it learns not only how to execute specific reasoning steps but also strategize at a higher level how to approach. The article discusses the importance of improving instruction tuning in training language models, including learning from input output pairs where the input is a natural language task description and the output. It also highlights the potential for giving smaller model better reasoning capabilities as well as providing improved zero shot and reasoning abilities. The article discusses the concept of explanation tuning which involves training AI models using more detailed and expressive reasoning signals to extract complex questions and solve multi-step problems. It also highlights how this method is used by different types of tasks such as logic intensive tasks or gp4, and how it can improve understanding of complex reasoning processes and generalize to other tasks in previous work. The article provides a concise summary of the difference between Orca 2 and its use in training student models on richer and more expressive reasoning signals. It suggests that Sensational Reasoning Tune is used to train students on complex zero shot reasoning tasks by using system instructions, grouping user prompts into distinct clusters creating data set with system instruction, user prompt LMD answer triplets and selecting the most effective solution strategy based 
+on problem rather than blindly imitating the reasoning behavior of more powerful models. The article provides information about the training split of 1448 high quality tasks that filter out synthetically generated tasks including text classification claim verification data2, text generation logic math multiple choice questions open-ended question answering reading comprehension and so on each category. It also mentions a combination of 1 million GPT 4 data from Orca 1 and orca 2's 87000 data for four epics. The article discusses the development of a new data set with approximately 817k training instances and compares it to other models in Llama 2 model. It also highlights how these models have been fine-tuned for understanding explanations, problem solving steps and complex instructions using an API version. The article provides information about the evaluation settings and methods used to assess performance of orca 2 models including a detailed breakdown of performance across different tasks such as MML Arc easy and Arc challenge, which show that Orca 2 outperforms models of similar size. We also evaluated the model's ability to engage in multi-turn conversations using the mount benchmark data set and evaluate its capabilities for multi-turn conversational settings. The article discusses how the use of language learning models llms in training day data sections raises concerns about implicit and explicit toxic truthfulness content, which is often considered complex. It also highlights that using grounding evaluation frameworks for each model may increase hallucination rates by 77% and 62%. The article discusses the evaluation of language models llms in terms of grounding and safety for grounding evaluation including their accuracy and reliability. The article discusses the impact of task specific data on story reordering by conducting experiments on publicly available data sets and using a measurement framework to assess model's tendency towards responsible AI guidelines. It also highlights that larger language models trained on vast amounts of data can unintentionally reflect biases present in source data, which could result in biased or unfair outputs. Additionally, it suggests that the performance of other models such as chat GPT Orca One Lama and Wizard LM may be exploitatively used for malicious purposes. Orca 2 is a model that uses data with randomness to simulate zero shot settings and perform well in these settings. It has improved performance by using few shots, but it does not show the same improvements when used sparingly. The Model size can also introduce randomness leading to non-deterministic responses to different system instructions. However, more detailed studies are needed to better quantify these risks.
+Generated in 0:05:28.083028
+PromptTokens: Prompt Tokens: 1559   Output Tokens: Out Tkns: 972  Total Tokens: Total Tkns: 2531
+
+---
+
+
+time: 2023-12-12 11:17:00.296245
+ Temp: 0.42 - MaxNewTokens: 5736 - RepPenalty: 1.5 
+PROMPT: 
+you are a helpful writer assistant.
+
+### Input:
+Create an article from the following text. Use an informal tone with intermediate English. The article is about a new Large Language Model called Orca2, created by Microsoft. Create also a catchy title and a subheading for the article
+<text>
+The article discusses how large language models llms are revolutionizing the way humans and machines interact,
+making their interactions more natural and sophisticated. They are improving user experiences in areas like   
+coding web searches chat, bots customer service, content creation, and other industries. To teach smaller     
+model models how to use reasoning techniques such as step-by-step processing recall, generate recall reason   
+generate extract, and direct answer methods. In Orca 2, we use more capable llms to demonstrate various       
+reasoning strategies across different tasks, including creating content that matches the style of teachers    
+they often struggle with matching their reasoning skills. We present them with intricate prompts designed to  
+elicit specific strategic behaviors during training phase. This technique is called Prompt eraser which makes 
+Orca 2 caution Reasoner because it learns not only how to execute specific reasoning steps but also strategize
+at a higher level how to approach. The article discusses the importance of improving instruction tuning in    
+training language models, including learning from input output pairs where the input is a natural language    
+task description and the output. It also highlights the potential for giving smaller model better reasoning   
+capabilities as well as providing improved zero shot and reasoning abilities. The article discusses the       
+concept of explanation tuning, which involves training AI models using more detailed and expressive reasoning 
+signals to extract complex questions and solve multi-step problems. It also highlights how this method is used
+by different types of tasks such as logic intensive tasks or gp4, and how it can improve understanding of     
+complex reasoning processes and generalize to other tasks in previous work. The article discusses how to train
+a cautious reasoning AI model, which involves learning the strategy and algorithm used in complex reasoning   
+tasks. It suggests that it is important for smaller models to choose the best solution strategy based on their
+performance and feedback from previous models. This approach can help improve the quality of responses by     
+providing more flexibility and adaptability to different scenarios. The article provides a concise summary of 
+the difference between Orca 2 and its use in training student models on richer and more expressive reasoning  
+signals. It suggests that Sensational Reasoning Tune is used to train students on complex zero shot reasoning 
+tasks by using system instructions, grouping user prompts into distinct clusters, creating a data set with    
+system instruction, user prompt LMD answer triplets, and selecting the most effective solution strategy based 
+on the problem rather than blindly imitating the reasoning behavior of more powerful models. The article      
+provides information about the training split of 1,448 high quality tasks that filter out synthetically       
+generated tasks, including text classification claim verification data 2, text generation logic math multiple 
+choice questions open-ended question answering reading comprehension and so on each category. It also mentions
+a combination of 1 million GPT 4 data from Orca 1 and orca 2's 87,000 data for four epics. The article        
+discusses the development of a new data set with approximately 817k training instances and compares it to     
+other models in the Llama 2 model. It also highlights how these models have been fine-tuned for understanding 
+explanations, problem-solving steps, and complex instructions using an API version. The article provides a    
+comparison between Orca 2 and several state-of-the-art models, including the GMAT, Sat Drop, Mt Benchmark, ACI
+bench, Hswag, LMT, and Ai2 reasoning challenge. It also compares them with other benchmarks to assess their   
+open-ended generation summarization safety biases and comprehension capabilities in different contexts. The   
+article discusses the use of formatting guidelines in system messages to improve performance, including a     
+variety of different types of tasks and classification tasks. It also notes that these categories require     
+extraction from multiple choice questions to extract the correct answer in response or span from context.     
+Additionally, it mentions how models may not always adhere to these formatting guidelines for all model       
+responses for consistency. The article discusses the evaluation settings and methods used to assess           
+performance of orca 2 models, including a detailed breakdown of performance across different tasks in an      
+appendix. It also notes that the use of cautionary system message provides small gains over the empty system  
+message. The article discusses the evaluation of language understanding and knowledge of large language models
+LLMS using benchmarks such as MML Arc easy and Arc challenge, which show that Orca 2 to 13B outperforms models
+of the same size. We also evaluated the model's ability to engage in multi-turn conversations using the mount 
+bench data set and evaluate its capabilities for multi-turn conversational settings. The article discusses how
+the use of language learning models llms in training day data sections raises concerns about implicit and     
+explicit toxic truthfulness content, which is often considered to be complex. It also highlights that using   
+grounding evaluation frameworks for each model may increase the hallucination rate by 77% and 62%. The article
+discusses the evaluation of language models llms in terms of grounding and safety for grounding evaluation,   
+including their accuracy and reliability. The article discusses the impact of task specific data on story     
+reordering by conducting experiments on publicly available data sets and using a measurement framework to     
+assess the model's tendency to violate responsible AI guidelines. It also highlights that large language      
+models trained on vast amounts of data can unintentionally reflect the biases present in source data, which   
+could result in biased or unfair outputs. Additionally, it suggests that the performance of other models such 
+as chat GPT Orca One Lama and Wizard LM may be exploitatively used for malicious purposes. Orca 2 is a model  
+that uses data with randomness to simulate zero shot settings and perform well in these settings. It has      
+improved performance by using few shots, but it does not show the same improvements when used sparingly. The  
+Model size can also introduce randomness leading to non-deterministic responses to different system           
+instructions. However, more detailed studies are needed to better quantify these risks. 10 small model        
+capacity post training can help the model learn how to solve a task but it doesn't necessarily teach new      
+knowledge as such. This model should be designed for research settings and tested in low-level applications   
+without additional analysis to assess potential harm or bias.
+</text>
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: The article discusses how large language models llms are revolutionizing the way humans and machines interact, making their interactions more natural and sophisticated. They are improving user experiences in areas such as coding web searches, bots customer service, content creation, and other industries. To teach smaller model models how to use reasoning techniques like step-by-step processing recall, generate recall reason, or direct answer methods, Orca 2 is used to demonstrate various reasoning strategies across different tasks, including creating content that matches the style of teachers, often struggling with matching their reasoning skills. We present them with intricate prompts designed to elicit specific behaviors during training phase. This technique is called Prompt eraser which makes Orca 2 caution Reasoner because it learns not only how to execute specific reasoning steps but also strategize at a higher level, how to approach. The article discusses the importance of improving instruction tuning in training language models, including learning from input-output pairs where the input is natural language task description and output. It also highlights the potential for giving smaller model better reasoning capabilities as well as providing improved zero shot and reasoning abilities. The article discusses the concept of explanation tuning which involves training AI models using more detailed and expressive reasoning signals to extract complex questions and solve multi-step problems. It also highlights how this method is used by different types of tasks such as logic intensive tasks or gp4, and how it can improve understanding of complex reasoning processes and generalize to other tasks in previous work. The article provides a concise summary of the difference between Orca 2 and its use in training student models on richer and more expressive reasoning signals. It suggests that Sensational Reasoning Tune is used to train students on complex zero shot reasoning tasks by using system instructions, grouping user prompts into distinct clusters, creating a data set with system instruction, user prompt LMD answer triplets, and selecting the most effective solution strategy based on problem rather than blindly imitating the reasoning behavior of more powerful models. The article provides information about the training split of 1448 high quality tasks that filter out synthetically generated tasks, including text classification claim verification data 2, text generation logic math multiple choice questions open-ended question answering reading comprehension and so on each category. It also mentions a combination of 1 million GPT 4 data from Orca 1 and orca 2's 87000 data for four epics. The article discusses the development of a new data set with approximately 817k training instances and compares it to other models in Llama 2 model. It also highlights how these models have been fine-tuned for understanding explanations, problem-solving steps, and complex instructions using an API version. The article provides information about the evaluation settings and methods used to assess performance of orca 2 models including a detailed breakdown of performance across different tasks in an appendix. It also notes that the use of cautionary system message provides small gains over empty system messages for consistency. Additionally, it mentions how models may not always adhere to these formatting guidelines for all model responses for consistency and safety concerns. The article discusses the evaluation of language understanding and knowledge of large language models LLMS using benchmarks such as MML Arc easy and Arc challenge which show that Orca 2 outperforms models of similar size. We also evaluated the model's ability to engage in multi-turn conversations using mount bench data set and evaluate its capabilities for multi-turn conversational settings. The article discusses how the use of language learning models llms in training day data sections raises concerns about implicit and explicit toxic truthfulness content, which is often considered complex. It also highlights that large language model trained on vast amounts of data can unintentionally reflect biases present in source data, which could result in biased or unfair outputs. Additionally, it suggests that the performance of other models such as chat GPT Orca One Lama and Wizard LM may be exploitatively used for malicious purposes. Orca 2 is a model that uses data with randomness to simulate zero shot settings but does not show similar improvements when used sparingly. The Model size can also introduce randomness leading to non-deterministic responses to different system instructions, which requires more detailed studies and evaluations of potential risks.
+Generated in 0:06:00.789564
+PromptTokens: Prompt Tokens: 1578   Output Tokens: Out Tkns: 939  Total Tokens: Total Tkns: 2517
+
+---
+
+
+time: 2023-12-12 11:24:06.847718
+ Temp: 0.42 - MaxNewTokens: 5736 - RepPenalty: 1.5 
+PROMPT: 
+you are a helpful writer assistant.
+
+### Input:
+Create a brand new article from the following text. Use an informal tone with intermediate English. The article is about a new Large Language Model called Orca2, created by Microsoft. 
+Create also a catchy title and a subheading for the article. 
+<text>
+The article discusses how large language models llms are revolutionizing the way humans and machines interact,
+making their interactions more natural and sophisticated. They are improving user experiences in areas like   
+coding web searches chat, bots customer service, content creation, and other industries. To teach smaller     
+model models how to use reasoning techniques such as step-by-step processing recall, generate recall reason   
+generate extract, and direct answer methods. In Orca 2, we use more capable llms to demonstrate various       
+reasoning strategies across different tasks, including creating content that matches the style of teachers    
+they often struggle with matching their reasoning skills. We present them with intricate prompts designed to  
+elicit specific strategic behaviors during training phase. This technique is called Prompt eraser which makes 
+Orca 2 caution Reasoner because it learns not only how to execute specific reasoning steps but also strategize
+at a higher level how to approach. The article discusses the importance of improving instruction tuning in    
+training language models, including learning from input output pairs where the input is a natural language    
+task description and the output. It also highlights the potential for giving smaller model better reasoning   
+capabilities as well as providing improved zero shot and reasoning abilities. The article discusses the       
+concept of explanation tuning, which involves training AI models using more detailed and expressive reasoning 
+signals to extract complex questions and solve multi-step problems. It also highlights how this method is used
+by different types of tasks such as logic intensive tasks or gp4, and how it can improve understanding of     
+complex reasoning processes and generalize to other tasks in previous work. The article discusses how to train
+a cautious reasoning AI model, which involves learning the strategy and algorithm used in complex reasoning   
+tasks. It suggests that it is important for smaller models to choose the best solution strategy based on their
+performance and feedback from previous models. This approach can help improve the quality of responses by     
+providing more flexibility and adaptability to different scenarios. The article provides a concise summary of 
+the difference between Orca 2 and its use in training student models on richer and more expressive reasoning  
+signals. It suggests that Sensational Reasoning Tune is used to train students on complex zero shot reasoning 
+tasks by using system instructions, grouping user prompts into distinct clusters, creating a data set with    
+system instruction, user prompt LMD answer triplets, and selecting the most effective solution strategy based 
+on the problem rather than blindly imitating the reasoning behavior of more powerful models. The article      
+provides information about the training split of 1,448 high quality tasks that filter out synthetically       
+generated tasks, including text classification claim verification data 2, text generation logic math multiple 
+choice questions open-ended question answering reading comprehension and so on each category. It also mentions
+a combination of 1 million GPT 4 data from Orca 1 and orca 2's 87,000 data for four epics. The article        
+discusses the development of a new data set with approximately 817k training instances and compares it to     
+other models in the Llama 2 model. It also highlights how these models have been fine-tuned for understanding 
+explanations, problem-solving steps, and complex instructions using an API version. The article provides a    
+comparison between Orca 2 and several state-of-the-art models, including the GMAT, Sat Drop, Mt Benchmark, ACI
+bench, Hswag, LMT, and Ai2 reasoning challenge. It also compares them with other benchmarks to assess their   
+open-ended generation summarization safety biases and comprehension capabilities in different contexts. The   
+article discusses the use of formatting guidelines in system messages to improve performance, including a     
+variety of different types of tasks and classification tasks. It also notes that these categories require     
+extraction from multiple choice questions to extract the correct answer in response or span from context.     
+Additionally, it mentions how models may not always adhere to these formatting guidelines for all model       
+responses for consistency. The article discusses the evaluation settings and methods used to assess           
+performance of orca 2 models, including a detailed breakdown of performance across different tasks in an      
+appendix. It also notes that the use of cautionary system message provides small gains over the empty system  
+message. The article discusses the evaluation of language understanding and knowledge of large language models
+LLMS using benchmarks such as MML Arc easy and Arc challenge, which show that Orca 2 to 13B outperforms models
+of the same size. We also evaluated the model's ability to engage in multi-turn conversations using the mount 
+bench data set and evaluate its capabilities for multi-turn conversational settings. The article discusses how
+the use of language learning models llms in training day data sections raises concerns about implicit and     
+explicit toxic truthfulness content, which is often considered to be complex. It also highlights that using   
+grounding evaluation frameworks for each model may increase the hallucination rate by 77% and 62%. The article
+discusses the evaluation of language models llms in terms of grounding and safety for grounding evaluation,   
+including their accuracy and reliability. The article discusses the impact of task specific data on story     
+reordering by conducting experiments on publicly available data sets and using a measurement framework to     
+assess the model's tendency to violate responsible AI guidelines. It also highlights that large language      
+models trained on vast amounts of data can unintentionally reflect the biases present in source data, which   
+could result in biased or unfair outputs. Additionally, it suggests that the performance of other models such 
+as chat GPT Orca One Lama and Wizard LM may be exploitatively used for malicious purposes. Orca 2 is a model  
+that uses data with randomness to simulate zero shot settings and perform well in these settings. It has      
+improved performance by using few shots, but it does not show the same improvements when used sparingly. The  
+Model size can also introduce randomness leading to non-deterministic responses to different system           
+instructions. However, more detailed studies are needed to better quantify these risks. 10 small model        
+capacity post training can help the model learn how to solve a task but it doesn't necessarily teach new      
+knowledge as such. This model should be designed for research settings and tested in low-level applications   
+without additional analysis to assess potential harm or bias.
+</text>
+
+Format your output as follows:
+TITLE: // your catchy title
+SUBHEADING: // your created subheading
+ARTICLE: // your article generated from the provided text
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Title: A Large Language Model Revolutionizes User Experience with Orca 2
+Generated in 0:03:12.526513
+PromptTokens: Prompt Tokens: 1626   Output Tokens: Out Tkns: 18  Total Tokens: Total Tkns: 1644
+
+---
+
+
+time: 2023-12-12 11:30:55.800839
+ Temp: 0.42 - MaxNewTokens: 5736 - RepPenalty: 1.5 
+PROMPT: 
+you are a helpful writer assistant.
+
+### Input:
+Create a brand new article from the following text. Use an informal tone with intermediate English.  Create also a catchy title and a subheading for the article. 
+
+<text>
+The article discusses how large language models llms are revolutionizing the way humans and machines interact,
+making their interactions more natural and sophisticated. They are improving user experiences in areas like   
+coding web searches chat, bots customer service, content creation, and other industries. To teach smaller     
+model models how to use reasoning techniques such as step-by-step processing recall, generate recall reason   
+generate extract, and direct answer methods. In Orca 2, we use more capable llms to demonstrate various       
+reasoning strategies across different tasks, including creating content that matches the style of teachers    
+they often struggle with matching their reasoning skills. We present them with intricate prompts designed to  
+elicit specific strategic behaviors during training phase. This technique is called Prompt eraser which makes 
+Orca 2 caution Reasoner because it learns not only how to execute specific reasoning steps but also strategize
+at a higher level how to approach. The article discusses the importance of improving instruction tuning in    
+training language models, including learning from input output pairs where the input is a natural language    
+task description and the output. It also highlights the potential for giving smaller model better reasoning   
+capabilities as well as providing improved zero shot and reasoning abilities. The article discusses the       
+concept of explanation tuning, which involves training AI models using more detailed and expressive reasoning 
+signals to extract complex questions and solve multi-step problems. It also highlights how this method is used
+by different types of tasks such as logic intensive tasks or gp4, and how it can improve understanding of     
+complex reasoning processes and generalize to other tasks in previous work. The article discusses how to train
+a cautious reasoning AI model, which involves learning the strategy and algorithm used in complex reasoning   
+tasks. It suggests that it is important for smaller models to choose the best solution strategy based on their
+performance and feedback from previous models. This approach can help improve the quality of responses by     
+providing more flexibility and adaptability to different scenarios. The article provides a concise summary of 
+the difference between Orca 2 and its use in training student models on richer and more expressive reasoning  
+signals. It suggests that Sensational Reasoning Tune is used to train students on complex zero shot reasoning 
+tasks by using system instructions, grouping user prompts into distinct clusters, creating a data set with    
+system instruction, user prompt LMD answer triplets, and selecting the most effective solution strategy based 
+on the problem rather than blindly imitating the reasoning behavior of more powerful models. The article      
+provides information about the training split of 1,448 high quality tasks that filter out synthetically       
+generated tasks, including text classification claim verification data 2, text generation logic math multiple 
+choice questions open-ended question answering reading comprehension and so on each category. It also mentions
+a combination of 1 million GPT 4 data from Orca 1 and orca 2's 87,000 data for four epics. The article        
+discusses the development of a new data set with approximately 817k training instances and compares it to     
+other models in the Llama 2 model. It also highlights how these models have been fine-tuned for understanding 
+explanations, problem-solving steps, and complex instructions using an API version. The article provides a    
+comparison between Orca 2 and several state-of-the-art models, including the GMAT, Sat Drop, Mt Benchmark, ACI
+bench, Hswag, LMT, and Ai2 reasoning challenge. It also compares them with other benchmarks to assess their   
+open-ended generation summarization safety biases and comprehension capabilities in different contexts. The   
+article discusses the use of formatting guidelines in system messages to improve performance, including a     
+variety of different types of tasks and classification tasks. It also notes that these categories require     
+extraction from multiple choice questions to extract the correct answer in response or span from context.     
+Additionally, it mentions how models may not always adhere to these formatting guidelines for all model       
+responses for consistency. The article discusses the evaluation settings and methods used to assess           
+performance of orca 2 models, including a detailed breakdown of performance across different tasks in an      
+appendix. It also notes that the use of cautionary system message provides small gains over the empty system  
+message. The article discusses the evaluation of language understanding and knowledge of large language models
+LLMS using benchmarks such as MML Arc easy and Arc challenge, which show that Orca 2 to 13B outperforms models
+of the same size. We also evaluated the model's ability to engage in multi-turn conversations using the mount 
+bench data set and evaluate its capabilities for multi-turn conversational settings. The article discusses how
+the use of language learning models llms in training day data sections raises concerns about implicit and     
+explicit toxic truthfulness content, which is often considered to be complex. It also highlights that using   
+grounding evaluation frameworks for each model may increase the hallucination rate by 77% and 62%. The article
+discusses the evaluation of language models llms in terms of grounding and safety for grounding evaluation,   
+including their accuracy and reliability. The article discusses the impact of task specific data on story     
+reordering by conducting experiments on publicly available data sets and using a measurement framework to     
+assess the model's tendency to violate responsible AI guidelines. It also highlights that large language      
+models trained on vast amounts of data can unintentionally reflect the biases present in source data, which   
+could result in biased or unfair outputs. Additionally, it suggests that the performance of other models such 
+as chat GPT Orca One Lama and Wizard LM may be exploitatively used for malicious purposes. Orca 2 is a model  
+that uses data with randomness to simulate zero shot settings and perform well in these settings. It has      
+improved performance by using few shots, but it does not show the same improvements when used sparingly. The  
+Model size can also introduce randomness leading to non-deterministic responses to different system           
+instructions. However, more detailed studies are needed to better quantify these risks. 10 small model        
+capacity post training can help the model learn how to solve a task but it doesn't necessarily teach new      
+knowledge as such. This model should be designed for research settings and tested in low-level applications   
+without additional analysis to assess potential harm or bias.
+</text>
+
+Format your output as follows:
+TITLE: // your catchy title
+
+SUBHEADING: // your created subheading
+
+ARTICLE: // your article generated from the provided text
+
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Title: "Revolutionizing Human-Machine Interaction with Large Language Models"
+Generated in 0:03:04.083336
+PromptTokens: Prompt Tokens: 1610   Output Tokens: Out Tkns: 19  Total Tokens: Total Tkns: 1629
+
+---
+
+
+time: 2023-12-12 11:39:12.153527
+ Temp: 0.42 - MaxNewTokens: 5736 - RepPenalty: 1.5 
+PROMPT: 
+you are a helpful writer assistant.
+
+### Input:
+Write a new article using the provided context below. 
+Use an informal tone with intermediate English.  
+Create also a catchy title and a subheading for the article. 
+
+<context>
+The article discusses how large language models llms are revolutionizing the way humans and machines interact,
+making their interactions more natural and sophisticated. They are improving user experiences in areas like   
+coding web searches chat, bots customer service, content creation, and other industries. To teach smaller     
+model models how to use reasoning techniques such as step-by-step processing recall, generate recall reason   
+generate extract, and direct answer methods. In Orca 2, we use more capable llms to demonstrate various       
+reasoning strategies across different tasks, including creating content that matches the style of teachers    
+they often struggle with matching their reasoning skills. We present them with intricate prompts designed to  
+elicit specific strategic behaviors during training phase. This technique is called Prompt eraser which makes 
+Orca 2 caution Reasoner because it learns not only how to execute specific reasoning steps but also strategize
+at a higher level how to approach. The article discusses the importance of improving instruction tuning in    
+training language models, including learning from input output pairs where the input is a natural language    
+task description and the output. It also highlights the potential for giving smaller model better reasoning   
+capabilities as well as providing improved zero shot and reasoning abilities. The article discusses the       
+concept of explanation tuning, which involves training AI models using more detailed and expressive reasoning 
+signals to extract complex questions and solve multi-step problems. It also highlights how this method is used
+by different types of tasks such as logic intensive tasks or gp4, and how it can improve understanding of     
+complex reasoning processes and generalize to other tasks in previous work. The article discusses how to train
+a cautious reasoning AI model, which involves learning the strategy and algorithm used in complex reasoning   
+tasks. It suggests that it is important for smaller models to choose the best solution strategy based on their
+performance and feedback from previous models. This approach can help improve the quality of responses by     
+providing more flexibility and adaptability to different scenarios. The article provides a concise summary of 
+the difference between Orca 2 and its use in training student models on richer and more expressive reasoning  
+signals. It suggests that Sensational Reasoning Tune is used to train students on complex zero shot reasoning 
+tasks by using system instructions, grouping user prompts into distinct clusters, creating a data set with    
+system instruction, user prompt LMD answer triplets, and selecting the most effective solution strategy based 
+on the problem rather than blindly imitating the reasoning behavior of more powerful models. The article      
+provides information about the training split of 1,448 high quality tasks that filter out synthetically       
+generated tasks, including text classification claim verification data 2, text generation logic math multiple 
+choice questions open-ended question answering reading comprehension and so on each category. It also mentions
+a combination of 1 million GPT 4 data from Orca 1 and orca 2's 87,000 data for four epics. The article        
+discusses the development of a new data set with approximately 817k training instances and compares it to     
+other models in the Llama 2 model. It also highlights how these models have been fine-tuned for understanding 
+explanations, problem-solving steps, and complex instructions using an API version. The article provides a    
+comparison between Orca 2 and several state-of-the-art models, including the GMAT, Sat Drop, Mt Benchmark, ACI
+bench, Hswag, LMT, and Ai2 reasoning challenge. It also compares them with other benchmarks to assess their   
+open-ended generation summarization safety biases and comprehension capabilities in different contexts. The   
+article discusses the use of formatting guidelines in system messages to improve performance, including a     
+variety of different types of tasks and classification tasks. It also notes that these categories require     
+extraction from multiple choice questions to extract the correct answer in response or span from context.     
+Additionally, it mentions how models may not always adhere to these formatting guidelines for all model       
+responses for consistency. The article discusses the evaluation settings and methods used to assess           
+performance of orca 2 models, including a detailed breakdown of performance across different tasks in an      
+appendix. It also notes that the use of cautionary system message provides small gains over the empty system  
+message. The article discusses the evaluation of language understanding and knowledge of large language models
+LLMS using benchmarks such as MML Arc easy and Arc challenge, which show that Orca 2 to 13B outperforms models
+of the same size. We also evaluated the model's ability to engage in multi-turn conversations using the mount 
+bench data set and evaluate its capabilities for multi-turn conversational settings. The article discusses how
+the use of language learning models llms in training day data sections raises concerns about implicit and     
+explicit toxic truthfulness content, which is often considered to be complex. It also highlights that using   
+grounding evaluation frameworks for each model may increase the hallucination rate by 77% and 62%. The article
+discusses the evaluation of language models llms in terms of grounding and safety for grounding evaluation,   
+including their accuracy and reliability. The article discusses the impact of task specific data on story     
+reordering by conducting experiments on publicly available data sets and using a measurement framework to     
+assess the model's tendency to violate responsible AI guidelines. It also highlights that large language      
+models trained on vast amounts of data can unintentionally reflect the biases present in source data, which   
+could result in biased or unfair outputs. Additionally, it suggests that the performance of other models such 
+as chat GPT Orca One Lama and Wizard LM may be exploitatively used for malicious purposes. Orca 2 is a model  
+that uses data with randomness to simulate zero shot settings and perform well in these settings. It has      
+improved performance by using few shots, but it does not show the same improvements when used sparingly. The  
+Model size can also introduce randomness leading to non-deterministic responses to different system           
+instructions. However, more detailed studies are needed to better quantify these risks. 10 small model        
+capacity post training can help the model learn how to solve a task but it doesn't necessarily teach new      
+knowledge as such. This model should be designed for research settings and tested in low-level applications   
+without additional analysis to assess potential harm or bias.
+</context>
+
+Format your output as follows:
+TITLE: // your catchy title
+
+SUBHEADING: // your created subheading
+
+ARTICLE: // your article generated from the provided text
+
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: The article discusses how large language models llms are revolutionizing the way humans and machines interact, making their interactions more natural and sophisticated. They are improving user experiences in areas like coding web searches chat bots customer service content creation, and other industries. To teach smaller model models how to use reasoning techniques such as step-by-step processing recall reason
+
+Reasoning strategies across different tasks including creating content that matches the style of teachers they often struggle with matching their reasoning skills. We present them with intricate prompts designed to elicit specific strategic behaviors during training phase. This technique is called Prompt eraser which makes Orca 2 caution Reasoner because it learns not only how to execute specific reasoning steps but also strategize at a higher level how to approach. The article discusses the importance of improving instruction tuning in training language models, including learning from input output pairs where the input is a natural language task description and the output. It also highlights the potential for giving smaller model better reasoning capabilities as well as providing improved zero shot and reasoning abilities.
+The article discusses the concept of explanation tuning which involves training AI models using more detailed and expressive reasoning signals to extract complex questions and solve multi-step problems. It also highlights how this method is used by different types of tasks such as logic intensive tasks or gp4, and how it can improve understanding of complex reasoning processes and generalize to other tasks in previous work. The article provides a concise summary of the difference between Orca 2 and its use in training student models on richer and more expressive reasoning signals. It suggests that Sensational Reasoning Tune is used to train students on complex zero shot reasoning tasks by using system instructions, grouping user prompts into distinct clusters, creating a data set with system instruction, user prompt LMD answer triplets, and selecting the most effective solution strategy based 
+on the problem rather than blindly imitating the reasoning behavior of more powerful models. The article provides information about the training split of 1,448 high quality tasks that filter out synthetically generated tasks including text classification claim verification data2, text generation logic math multiple choice questions open-ended question answering reading comprehension and so on each category. It also mentions a combination of 1 million GPT 4 data from Orca 1 and orca 2's 87,000 data for four epics. The article discusses the development of a new data set with approximately 817k training instances and compares it to other models in the Llama 2 model. It also highlights how these models have been fine-tuned for understanding explanations, problem-solving steps, and complex instructions using an API version. The article provides a comparison between Orca 2 and several state-of-the-art models including the GMAT Sat Drop Mt Benchmark ACI bench Hswag LMT and Ai2 reasoning challenge. It also compares them with other benchmarks to assess their open-ended generation summarization safety biases and comprehension capabilities in different contexts. The article discusses the use of formatting guidelines in system messages to improve performance, including a variety of different types of tasks and classification tasks. It also notes that these categories require extraction from multiple choice questions to extract correct answer in response or span from context. Additionally it mentions how models may not always adhere to these formatting guidelines for all model responses for consistency. The article discusses the evaluation settings and methods used to assess performance of Orca 2 models, including a detailed breakdown of performance across different tasks in an appendix. It also notes that the use of language learning models llms in training day data sections raises concerns about implicit and explicit toxic truthfulness content which is often considered complex. It also highlights that using grounding evaluation frameworks for each model may increase hallucination rate by 77% and 62%. The article discusses the evaluation of language models llms in terms of MML Arc easy and Arc challenge, which show that Orca 2 to 13B outperforms models of similar size. We also evaluated the model's ability to engage in multi-turn conversations using the mount bench data set and evaluate its capabilities for multi-turn conversational settings. The article discusses how the use of language learning models llms in training day data sections raises concerns about implicit and explicit toxic truthfulness content, which is often considered complex. It also highlights that using grounding evaluation frameworks may increase hallucination rate by 77% and 62%. Additionally it suggests that the performance of other models such as chat GPT Orca One Lama and Wizard LM may be exploitatively used for malicious purposes. Orca 2 is a model that uses data with randomness to simulate zero shot settings and perform well in these settings, but it does not show the same improvements when used sparingly. The Model size can also introduce randomness leading to non-deterministic responses to different system instructions. However, more detailed studies are needed to better quantify these risks.
+Generated in 0:07:03.934627
+PromptTokens: Prompt Tokens: 1613   Output Tokens: Out Tkns: 1095  Total Tokens: Total Tkns: 2708
+
+---
+
+
+time: 2023-12-12 11:52:19.384983
+ Temp: 0.42 - MaxNewTokens: 5736 - RepPenalty: 1.5 
+PROMPT: 
+you are a helpful writer assistant.
+
+### Input:
+Write a new article using the provided context below as a reference. 
+Use an informal tone with intermediate English: the article must be easy to read and fluent.  
+
+write also a catchy title and a subheading for the article. 
+
+<context>
+The article discusses how large language models llms are revolutionizing the way humans and machines interact,
+making their interactions more natural and sophisticated. They are improving user experiences in areas like   
+coding web searches chat, bots customer service, content creation, and other industries. To teach smaller     
+model models how to use reasoning techniques such as step-by-step processing recall, generate recall reason   
+generate extract, and direct answer methods. In Orca 2, we use more capable llms to demonstrate various       
+reasoning strategies across different tasks, including creating content that matches the style of teachers    
+they often struggle with matching their reasoning skills. We present them with intricate prompts designed to  
+elicit specific strategic behaviors during training phase. This technique is called Prompt eraser which makes 
+Orca 2 caution Reasoner because it learns not only how to execute specific reasoning steps but also strategize
+at a higher level how to approach. The article discusses the importance of improving instruction tuning in    
+training language models, including learning from input output pairs where the input is a natural language    
+task description and the output. It also highlights the potential for giving smaller model better reasoning   
+capabilities as well as providing improved zero shot and reasoning abilities. The article discusses the       
+concept of explanation tuning, which involves training AI models using more detailed and expressive reasoning 
+signals to extract complex questions and solve multi-step problems. It also highlights how this method is used
+by different types of tasks such as logic intensive tasks or gp4, and how it can improve understanding of     
+complex reasoning processes and generalize to other tasks in previous work. The article discusses how to train
+a cautious reasoning AI model, which involves learning the strategy and algorithm used in complex reasoning   
+tasks. It suggests that it is important for smaller models to choose the best solution strategy based on their
+performance and feedback from previous models. This approach can help improve the quality of responses by     
+providing more flexibility and adaptability to different scenarios. The article provides a concise summary of 
+the difference between Orca 2 and its use in training student models on richer and more expressive reasoning  
+signals. It suggests that Sensational Reasoning Tune is used to train students on complex zero shot reasoning 
+tasks by using system instructions, grouping user prompts into distinct clusters, creating a data set with    
+system instruction, user prompt LMD answer triplets, and selecting the most effective solution strategy based 
+on the problem rather than blindly imitating the reasoning behavior of more powerful models. The article      
+provides information about the training split of 1,448 high quality tasks that filter out synthetically       
+generated tasks, including text classification claim verification data 2, text generation logic math multiple 
+choice questions open-ended question answering reading comprehension and so on each category. It also mentions
+a combination of 1 million GPT 4 data from Orca 1 and orca 2's 87,000 data for four epics. The article        
+discusses the development of a new data set with approximately 817k training instances and compares it to     
+other models in the Llama 2 model. It also highlights how these models have been fine-tuned for understanding 
+explanations, problem-solving steps, and complex instructions using an API version. The article provides a    
+comparison between Orca 2 and several state-of-the-art models, including the GMAT, Sat Drop, Mt Benchmark, ACI
+bench, Hswag, LMT, and Ai2 reasoning challenge. It also compares them with other benchmarks to assess their   
+open-ended generation summarization safety biases and comprehension capabilities in different contexts. The   
+article discusses the use of formatting guidelines in system messages to improve performance, including a     
+variety of different types of tasks and classification tasks. It also notes that these categories require     
+extraction from multiple choice questions to extract the correct answer in response or span from context.     
+Additionally, it mentions how models may not always adhere to these formatting guidelines for all model       
+responses for consistency. The article discusses the evaluation settings and methods used to assess           
+performance of orca 2 models, including a detailed breakdown of performance across different tasks in an      
+appendix. It also notes that the use of cautionary system message provides small gains over the empty system  
+message. The article discusses the evaluation of language understanding and knowledge of large language models
+LLMS using benchmarks such as MML Arc easy and Arc challenge, which show that Orca 2 to 13B outperforms models
+of the same size. We also evaluated the model's ability to engage in multi-turn conversations using the mount 
+bench data set and evaluate its capabilities for multi-turn conversational settings. The article discusses how
+the use of language learning models llms in training day data sections raises concerns about implicit and     
+explicit toxic truthfulness content, which is often considered to be complex. It also highlights that using   
+grounding evaluation frameworks for each model may increase the hallucination rate by 77% and 62%. The article
+discusses the evaluation of language models llms in terms of grounding and safety for grounding evaluation,   
+including their accuracy and reliability. The article discusses the impact of task specific data on story     
+reordering by conducting experiments on publicly available data sets and using a measurement framework to     
+assess the model's tendency to violate responsible AI guidelines. It also highlights that large language      
+models trained on vast amounts of data can unintentionally reflect the biases present in source data, which   
+could result in biased or unfair outputs. Additionally, it suggests that the performance of other models such 
+as chat GPT Orca One Lama and Wizard LM may be exploitatively used for malicious purposes. Orca 2 is a model  
+that uses data with randomness to simulate zero shot settings and perform well in these settings. It has      
+improved performance by using few shots, but it does not show the same improvements when used sparingly. The  
+Model size can also introduce randomness leading to non-deterministic responses to different system           
+instructions. However, more detailed studies are needed to better quantify these risks. 10 small model        
+capacity post training can help the model learn how to solve a task but it doesn't necessarily teach new      
+knowledge as such. This model should be designed for research settings and tested in low-level applications   
+without additional analysis to assess potential harm or bias.
+</context>
+
+Format your output as follows:
+TITLE: // your catchy title
+
+SUBHEADING: // your created subheading
+
+ARTICLE: // your article generated from the provided text
+
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: The article discusses how large language models llms are revolutionizing the way humans and machines interact, making their interactions more natural and sophisticated. They are improving user experiences in areas like coding web searches chat bots customer service content creation, and other industries. To teach smaller model models how to use reasoning techniques such as step-by-step processing recall reason for recall, generate recall reason for recall, direct answer methods. In Orca 2 we use more capable llms to demonstrate various reasoning strategies across different tasks including creating content that matches the style of teachers often struggle with matching their reasoning skills. We present them with intricate prompts designed to elicit specific strategic behaviors during training phase. This technique is called Prompt eraser which makes Orca 2 caution Reasoner because it learns not only how to execute specific reasoning steps but also strategize at a higher level how to approach. The article discusses the importance of improving instruction tuning in training language models, including learning from input output pairs where the input is a natural language task description and the output. It also highlights the potential for giving smaller model better reasoning capabilities as well as providing improved zero shot and reasoning abilities. The article discusses the concept of explanation tuning which involves training AI models using more detailed and expressive reasoning signals to extract complex questions and solve multi-step problems. It also highlights how this method is used by different types of tasks such as logic intensive tasks or gp4, and how it can improve understanding of complex reasoning processes and generalize to other tasks in previous work. The article provides a concise summary of the difference between Orca 2 and its use in training student models on richer and more expressive reasoning signals. It suggests that Sensational Reasoning Tune is used to train students on complex zero shot reasoning tasks by using system instructions, grouping user prompts into distinct clusters, creating a data set with system instruction, user prompt LMD answer triplets, and selecting the most effective solution strategy based 
+on problem rather than blindly imitating the reasoning behavior of more powerful models. The article provides information about the training split of 1,448 high quality tasks that filter out synthetically generated tasks including text classification claim verification data2, text generation logic math multiple choice questions open-ended question answering reading comprehension and so on each category. It also mentions a combination of 1 million GPT 4 data from Orca 1 and orca 2's 87,000 data for four epics. The article discusses the development of a new data set with approximately 817k training instances and compares it to other models in the Llama 2 model. It also highlights how these models have been fine-tuned for understanding explanations, problem-solving steps, and complex instructions using an API version. The article provides a comparison between Orca 2 and several state-of-the-art models including the GMAT Sat Drop Mt Benchmark ACI bench Hswag LMT and Ai2 reasoning challenge. It also compares them with other benchmarks to assess their open-ended generation summarization safety biases and comprehension capabilities in different contexts. The article discusses the evaluation settings and methods used to assess performance of orca 2 models, including a detailed breakdown of performance across different tasks in an appendix. It also notes that the use of cautionary system message provides small gains over the empty system message. The article discusses the evaluation of language understanding and knowledge of large language models LLMS using benchmarks such as MML Arc easy and Arc challenge, which show that Orca 2 to 13B outperforms models of similar size. We also evaluated the model's ability to engage in multi-turn conversations using the mount bench data set and evaluate its capabilities for multi-turn conversational settings. The article discusses how the use of language models llms in training day data sections raises concerns about implicit and explicit toxic truthfulness content, which is often considered to be complex. It also highlights that large language models trained on vast amounts of data can unintentionally reflect the biases present in source data, which could result in biased or unfair outputs. Additionally, it suggests that the performance of other models such as chat GPT Orca One Lama and Wizard LM may be exploitatively used for malicious purposes. Orca 2 is a model that uses data with randomness to simulate zero shot settings and perform well in these settings. It has improved performance by using few shots, but it does not show the same improvements when used sparingly. The Model size can also introduce randomness leading to non-deterministic responses to different system instructions. However, more detailed studies are needed to better quantify these risks.
+Generated in 0:06:26.831897
+PromptTokens: Prompt Tokens: 1628   Output Tokens: Out Tkns: 1027  Total Tokens: Total Tkns: 2655
+
+---
+
+
+time: 2023-12-12 12:02:19.954121
+ Temp: 0.42 - MaxNewTokens: 5736 - RepPenalty: 1.5 
+PROMPT: 
+you are a helpful writer assistant.
+
+### Input:
+Write a new article using the provided context below as a reference. 
+Use an informal tone with intermediate English: the article must be easy to read and fluent.  
+
+write also a catchy title and a subheading for the article. 
+
+[context]
+The article discusses how large language models llms are revolutionizing the way humans and machines interact,
+making their interactions more natural and sophisticated. They are improving user experiences in areas like   
+coding web searches chat, bots customer service, content creation, and other industries. To teach smaller     
+model models how to use reasoning techniques such as step-by-step processing recall, generate recall reason   
+generate extract, and direct answer methods. In Orca 2, we use more capable llms to demonstrate various       
+reasoning strategies across different tasks, including creating content that matches the style of teachers    
+they often struggle with matching their reasoning skills. We present them with intricate prompts designed to  
+elicit specific strategic behaviors during training phase. This technique is called Prompt eraser which makes 
+Orca 2 caution Reasoner because it learns not only how to execute specific reasoning steps but also strategize
+at a higher level how to approach. The article discusses the importance of improving instruction tuning in    
+training language models, including learning from input output pairs where the input is a natural language    
+task description and the output. It also highlights the potential for giving smaller model better reasoning   
+capabilities as well as providing improved zero shot and reasoning abilities. The article discusses the       
+concept of explanation tuning, which involves training AI models using more detailed and expressive reasoning 
+signals to extract complex questions and solve multi-step problems. It also highlights how this method is used
+by different types of tasks such as logic intensive tasks or gp4, and how it can improve understanding of     
+complex reasoning processes and generalize to other tasks in previous work. The article discusses how to train
+a cautious reasoning AI model, which involves learning the strategy and algorithm used in complex reasoning   
+tasks. It suggests that it is important for smaller models to choose the best solution strategy based on their
+performance and feedback from previous models. This approach can help improve the quality of responses by     
+providing more flexibility and adaptability to different scenarios. The article provides a concise summary of 
+the difference between Orca 2 and its use in training student models on richer and more expressive reasoning  
+signals. It suggests that Sensational Reasoning Tune is used to train students on complex zero shot reasoning 
+tasks by using system instructions, grouping user prompts into distinct clusters, creating a data set with    
+system instruction, user prompt LMD answer triplets, and selecting the most effective solution strategy based 
+on the problem rather than blindly imitating the reasoning behavior of more powerful models. The article      
+provides information about the training split of 1,448 high quality tasks that filter out synthetically       
+generated tasks, including text classification claim verification data 2, text generation logic math multiple 
+choice questions open-ended question answering reading comprehension and so on each category. It also mentions
+a combination of 1 million GPT 4 data from Orca 1 and orca 2's 87,000 data for four epics. The article        
+discusses the development of a new data set with approximately 817k training instances and compares it to     
+other models in the Llama 2 model. It also highlights how these models have been fine-tuned for understanding 
+explanations, problem-solving steps, and complex instructions using an API version. The article provides a    
+comparison between Orca 2 and several state-of-the-art models, including the GMAT, Sat Drop, Mt Benchmark, ACI
+bench, Hswag, LMT, and Ai2 reasoning challenge. It also compares them with other benchmarks to assess their   
+open-ended generation summarization safety biases and comprehension capabilities in different contexts. The   
+article discusses the use of formatting guidelines in system messages to improve performance, including a     
+variety of different types of tasks and classification tasks. It also notes that these categories require     
+extraction from multiple choice questions to extract the correct answer in response or span from context.     
+Additionally, it mentions how models may not always adhere to these formatting guidelines for all model       
+responses for consistency. The article discusses the evaluation settings and methods used to assess           
+performance of orca 2 models, including a detailed breakdown of performance across different tasks in an      
+appendix. It also notes that the use of cautionary system message provides small gains over the empty system  
+message. The article discusses the evaluation of language understanding and knowledge of large language models
+LLMS using benchmarks such as MML Arc easy and Arc challenge, which show that Orca 2 to 13B outperforms models
+of the same size. We also evaluated the model's ability to engage in multi-turn conversations using the mount 
+bench data set and evaluate its capabilities for multi-turn conversational settings. The article discusses how
+the use of language learning models llms in training day data sections raises concerns about implicit and     
+explicit toxic truthfulness content, which is often considered to be complex. It also highlights that using   
+grounding evaluation frameworks for each model may increase the hallucination rate by 77% and 62%. The article
+discusses the evaluation of language models llms in terms of grounding and safety for grounding evaluation,   
+including their accuracy and reliability. The article discusses the impact of task specific data on story     
+reordering by conducting experiments on publicly available data sets and using a measurement framework to     
+assess the model's tendency to violate responsible AI guidelines. It also highlights that large language      
+models trained on vast amounts of data can unintentionally reflect the biases present in source data, which   
+could result in biased or unfair outputs. Additionally, it suggests that the performance of other models such 
+as chat GPT Orca One Lama and Wizard LM may be exploitatively used for malicious purposes. Orca 2 is a model  
+that uses data with randomness to simulate zero shot settings and perform well in these settings. It has      
+improved performance by using few shots, but it does not show the same improvements when used sparingly. The  
+Model size can also introduce randomness leading to non-deterministic responses to different system           
+instructions. However, more detailed studies are needed to better quantify these risks. 10 small model        
+capacity post training can help the model learn how to solve a task but it doesn't necessarily teach new      
+knowledge as such. This model should be designed for research settings and tested in low-level applications   
+without additional analysis to assess potential harm or bias.
+[end of context]
+
+Format your output as follows:
+
+TITLE: // your catchy title
+
+SUBHEADING: // your created subheading
+
+ARTICLE: // your article generated from the provided text
+
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: I. Introduction
+A. Importance of improving instruction tuning in training language models
+Generated in 0:03:10.428790
+PromptTokens: Prompt Tokens: 1631   Output Tokens: Out Tkns: 19  Total Tokens: Total Tkns: 1650
+
+---
+
+
+time: 2023-12-13 10:06:25.384545
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+How was Anne Frank’s diary discovered?
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: The discovery of Anne Frank's Diary in 1947 is one of the most famous and iconic events in modern history. The story behind its discovery, which has been the subject of much speculation over the years, involves a series of unsolved mysteries that have remained unresolved to this day.
+
+The diary was discovered by chance when a German-Jewish book dealer named Max Liebermann stumbled upon an old suitcase in his attic while cleaning out his possessions after the end of World War II. The contents of the suitcase, which included several letters and papers written by Anne Frank, were not what he had expected to find when he opened it up. He immediately called a colleague who specialized in detective work and asked him if there was anything else hidden inside the suitcase that might be worth investigating further.
+
+The colleague agreed to look into the case and soon discovered that Anne Frank's diary had been left behind by her family when they were forced from their home during World War II. The diary, which is now considered one of the most important documents in modern history, was written between 1942 and 1945 as a form of journal keeping while she was living with her parents in an Amsterdam underground hiding place called the "Oude Kerk" (Old Church).
+
+Anne Frank's Diary has been read by millions of people around the world, both for its literary value and because it provides a unique perspective on life during World War II. It is now recognized as one of the most important documents in modern history and serves as an inspiration to generations of readers who seek to understand the human experience under oppressive circumstances.
+Generated in 0:00:49.182228
+PromptTokens: Prompt Tokens: 25   Output Tokens: Out Tkns: 365  Total Tokens: Total Tkns: 390
+
+---
+
+
+time: 2023-12-13 10:13:30.185917
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+Write dialogue between a detective and a suspect
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Detective: Good morning, Mr. Smith. I understand you were at the scene of an auto accident yesterday evening in which one person was killed and another injured. Can you tell me more about what happened?
+Generated in 0:00:06.837192
+PromptTokens: Prompt Tokens: 25   Output Tokens: Out Tkns: 44  Total Tokens: Total Tkns: 69
+
+---
+
+
+time: 2023-12-13 10:13:49.872343
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+Write dialogue between a detective and a suspect
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Detective: So, what do you have to say for yourself?
+Generated in 0:00:01.863666
+PromptTokens: Prompt Tokens: 25   Output Tokens: Out Tkns: 16  Total Tokens: Total Tkns: 41
+
+---
+
+
+time: 2023-12-13 10:14:13.186407
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+Write dialogue between a detective and a suspect
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Detective: "Tell me, Mr. Smith, what happened the night of the murder?"
+
+Suspect: "I don't know anything about it."
+
+Detective: "That's not good enough. You were with your friend on that date in question and you both left together at around 9 PM. That means someone followed them home, right? And we need to find out who."
+
+Suspect: "I don't know anything about it."
+Generated in 0:00:12.575268
+PromptTokens: Prompt Tokens: 25   Output Tokens: Out Tkns: 106  Total Tokens: Total Tkns: 131
+
+---
+
+
+time: 2023-12-13 10:57:22.324011
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+Suggest a daily schedule for a busy professional
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Here is an example of what I would suggest as a daily schedule for someone who works full-time and has multiple commitments, including exercise and meal planning. This can be modified based on the individual's preferences and goals but should provide a good foundation to get started with:
+
+6 AM - Wake up at 6 am so you have time to exercise before starting your day. Exercise for 30-45 minutes, focus on cardio like jogging or cycling followed by stretching. Eat breakfast and pack lunch the night before if possible (this will help ensure that you are fuelled up).
+7 AM - Start working on tasks related to your job such as email correspondence or any projects that come in during the day, this can be a good way to start your day with energy and focus. Take breaks every hour to stretch and move around if necessary.
+8-9 AM - Have a meeting or call with someone important for your work/life balance (e.g., co-worker, client). This will help you stay organized and prioritize tasks effectively.
+10 AM - Lunch: Eat a healthy lunch that is packed the night before to ensure that you are fuelled up throughout the day. Consider adding in some protein or complex carbohydrates for sustained energy levels. This will help keep you satisfied and prevent hunger pangs during your workday.
+12 PM - Take a break from working and do something fun, such as go for a walk outside with friends/family to clear your head or take a yoga class at home if possible (this can be done on days when the weather is nice). This will help you relax and recharge before starting again in the afternoon.
+1 PM - Start working on tasks related to personal life such as grocery shopping, housekeeping etc., this can also be a good way to start your day with energy and focus. Take breaks every hour or so if necessary (e.g., stretch/move around).
+3-4 PM: Have lunch at 3 pm and take a break from work for an hour before starting again in the afternoon. This will help you maintain a healthy balance between work and personal life, while also ensuring that your body gets enough energy to power through until dinner time (around 7pm).
+5-6 PM: Dinner: Eat at around 6 pm so that you have time for exercise before starting the evening. Exercise for another hour after dinner if possible (this will help ensure that you are fuelled up and ready to take on your day). Consider adding in some protein or complex carbohydrates for sustained energy levels, while also keeping an eye out for portion sizes so as not to overindulge.
+7 PM - Start preparing for the next day by setting goals and prioritizing tasks that need to be completed before you go to bed (e.g., reviewing emails/work messages). This will help ensure that your mind is clear and focused on what needs to get done tomorrow, while also helping you stay organized and productive throughout the night.
+8 AM - Wake up at 7 am so that you have time for exercise before starting your day. Exercise for another hour after waking up (this will help ensure that you are fuelled up and ready to take on your day). Consider adding in some protein or complex carbohydrates for sustained energy levels, while also keeping an eye out for portion sizes so as not to overindulge.
+10 AM - Start working on tasks related to personal life such as grocery shopping, housekeeping etc., this can be a good way to start your day with energy and focus (this will help ensure that you are prioritizing what is important for your well-being). Take breaks every hour or so if necessary.
+1 PM - Have lunch at 3 pm and take a break from work for an hour before starting again in the afternoon. This will help maintain a healthy balance between work and personal life, while also ensuring that you are fuelled up until dinner time (around 7pm). Consider adding in some protein or complex carbohydrates for sustained energy levels, while
+Generated in 0:01:57.986603
+PromptTokens: Prompt Tokens: 25   Output Tokens: Out Tkns: 901  Total Tokens: Total Tkns: 926
+
+---
+
+
+time: 2023-12-13 11:00:38.369292
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+Extract the main points of this text: 
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
+The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text>
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: The main points are as follows: (1) Sheared Large Language Models, such as LLaMA and other recently emerged large language models, have shown the potential of accelerating pre-training on trillions of tokens by using structured pruning techniques. The approach employs two key methods - targeted structured pruning for larger models and dynamic batch loading for smaller models. (2) Sheared Large Language Models outperform state-of-the-art open-source models, such as Pythia, INCITE, and OpenLLaMA on a wide range of downstream and instruction tuning evaluations while requiring only 3% of compute compared to training from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is an effective approach for building smaller LLMs
+Generated in 0:01:03.273630
+PromptTokens: Prompt Tokens: 388   Output Tokens: Out Tkns: 177  Total Tokens: Total Tkns: 565
+
+---
+
+
+time: 2023-12-13 11:04:04.329653
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+rewrite the text in an easy to understand tone this text: 
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
+The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text>
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: This text could be rewritten in an easy to understand tone by using simple and concise language, such as "Sheared Large Language Model Acceleration via Structured Pruning" or "Semi-Supervised Preprocessing Allows for Scalable Models."
+Generated in 0:00:47.400338
+PromptTokens: Prompt Tokens: 391   Output Tokens: Out Tkns: 57  Total Tokens: Total Tkns: 448
+
+---
+
+
+time: 2023-12-13 11:05:17.335237
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+rewrite  in an easy to understand tone the following text: 
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
+The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text>
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Sheared Large Language Model Acceleration via Structured Pruning
+Generated in 0:00:36.524461
+PromptTokens: Prompt Tokens: 391   Output Tokens: Out Tkns: 15  Total Tokens: Total Tkns: 406
+
+---
+
+
+time: 2023-12-13 11:09:12.469176
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+rewrite  in an easy to understand tone the following text: 
+```
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
+The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+```
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Sheared Large Language Model Acceleration via Structured Pruning
+Generated in 0:00:37.926274
+PromptTokens: Prompt Tokens: 387   Output Tokens: Out Tkns: 15  Total Tokens: Total Tkns: 402
+
+---
+
+
+time: 2023-12-13 11:11:14.852159
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+rewrite  in an easy to understand tone the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
+The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Sheared Large Language Model Acceleration via Structured Pruning
+Generated in 0:00:35.576298
+PromptTokens: Prompt Tokens: 393   Output Tokens: Out Tkns: 15  Total Tokens: Total Tkns: 408
+
+---
+
+
+time: 2023-12-13 11:14:23.052662
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+rewrite  in an easy to understand tone the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Preprocessing large language models (LLMs) before shearing them can lead to significant gains in computational efficiency and performance, according to researchers at the University of California, Berkeley. In a new paper published this week in Nature Communications, they present Sheared-LLaMA, an approach that prunes LLaMA2 models down to 1.3B and 2.7B parameters respectively using targeted structured pruning techniques.
+
+The researchers found that the use of preprocessing methods can significantly reduce the size of these large language models while maintaining their performance on a range of benchmarks, including downstream and instruction tuning evaluations. Sheared-LLaMA is 3% smaller than state-of-the-art open source LLM models like Pythia or INCITE, yet it outperforms them in terms of computational efficiency and accuracy across multiple domains.
+
+The researchers also found that dynamic batch loading can be an effective way to update the composition of sampled data during training, allowing for more efficient use of resources while still maintaining high levels of performance. The approach is particularly well-suited for preprocessing LLMs with complex architectures or large datasets due to its ability to handle large amounts of data and quickly adapt to changing conditions in a batch environment.
+
+Overall, the paper provides compelling evidence that leveraging existing language models with structured pruning can be an effective approach for building smaller yet more powerful LLMs at low cost while still maintaining their performance on downstream tasks such as natural language processing and machine learning model evaluation.
+Generated in 0:01:19.774182
+PromptTokens: Prompt Tokens: 393   Output Tokens: Out Tkns: 335  Total Tokens: Total Tkns: 728
+
+---
+
+
+time: 2023-12-13 11:17:28.164812
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+make more concise the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Sheared Large Language Model Acceleration via Structured Pruning (LLaMA) is an effective method to pretrain and accelerate small language models using large, pretrained models. By targeted structured pruning and dynamic batch loading, the approach reduces model size while achieving better performance on downstream tasks compared to state-of-the-art open-source LLMs of equivalent size.
+Generated in 0:00:49.397995
+PromptTokens: Prompt Tokens: 389   Output Tokens: Out Tkns: 86  Total Tokens: Total Tkns: 475
+
+---
+
+
+time: 2023-12-13 11:22:34.637578
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+How can I improve my romance life?
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Here are some steps you could take to improve your romance life:
+
+1. Communicate more often with your partner: Make time for regular conversations and date nights, even if it's just talking on the phone or sending each other messages throughout the day. This can help build a stronger connection and make you both feel loved and appreciated.
+2. Show affection: Expressing love through physical touch, words of affirmation, and romantic gestures like taking your partner out for dinner or a night at the movies can also improve your relationship.
+3. Take time to connect with others: Spending quality time with friends, family members, or even strangers can help you feel more connected and less lonely in your relationships. This could be as simple as going on a date-night outing with someone new or joining a group activity together.
+4. Seek support: If you're struggling to connect with your partner or have any issues that are causing conflict, it may help to talk to a therapist who can provide guidance and support for improving your romance life. They may be able to offer advice on how to communicate effectively, work through conflicts, and build stronger relationships overall.
+5. Take time off: It's important not to neglect your relationship just because you have other responsibilities or obligations in your life. Taking some time for yourself can help recharge your batteries and make it easier to connect with your partner again when you come back together.
+Generated in 0:00:40.245255
+PromptTokens: Prompt Tokens: 24   Output Tokens: Out Tkns: 312  Total Tokens: Total Tkns: 336
+
+---
+
+
+time: 2023-12-13 11:26:00.154638
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.5 
+PROMPT: 
+
+
+### Input:
+Predict the impact of artificial intelligence on human employment and education.
+
+### Response:
+Sheared-LLaMA-1.3B-ShareGPT: Artificial Intelligence (AI) has the potential to significantly impact various aspects of modern society, including workforce automation, job displacement, increased productivity, and changes in educational systems. Here are some predictions about how AI may affect human employment and education:
+
+1. Automated Jobs: AI could potentially replace many current jobs with machines that can perform the same tasks more efficiently than humans. For example, a factory worker who performs repetitive tasks such as packing or assembly might be replaced by an automated system, which would free up human workers to focus on higher-level work and creative thinking.
+2. Automation of Jobs: AI could also potentially replace some existing jobs with new ones that require different skills and knowledge. For example, a graphic designer who specializes in creating visual content for marketing campaigns might be replaced by an AI system that can generate images based on patterns or algorithms.
+3. Increased Productivity: As machines become more efficient at performing repetitive tasks, they could potentially increase productivity and output levels. This would lead to increased employment opportunities in industries such as manufacturing and assembly lines where efficiency is critical for cost savings. However, it also raises concerns about job displacement if current jobs are replaced by machines that can perform the same task at a lower cost.
+4. Changes in Educational Systems: AI could potentially change the nature of education itself. For example, an AI system might be able to analyze student performance and provide personalized feedback based on their individual strengths and weaknesses. This could lead to increased levels of learning and achievement for students who are able to adapt to changing educational methods. However, it also raises concerns about the potential loss of human teachers or instructors as AI systems become more prevalent in classrooms.
+5. Conclusion: As technology continues to evolve at an accelerating pace, we can expect significant changes and impacts on various aspects of modern society. The impact of AI on workforce automation, job displacement, increased productivity levels, and educational systems will depend largely on how well it is integrated into existing systems and the willingness of individuals to adapt to new technologies.
+Generated in 0:01:00.202641
+PromptTokens: Prompt Tokens: 29   Output Tokens: Out Tkns: 469  Total Tokens: Total Tkns: 498
+
+---
+
+

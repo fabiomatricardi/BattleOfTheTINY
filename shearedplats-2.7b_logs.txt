@@ -1,0 +1,434 @@
+time: 2023-12-13 16:16:26.950771
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+How was Anne Frank’s diary discovered?
+
+
+### Response:
+Shearedplats-2.7B: 
+In the summer of 1942, Anne's father sent her to a secret annex in Amsterdam. The building had been used as storage space by Otto van Pels and his wife Margot Fritzl (who were also Jewish). Van Pels was arrested on August 5th while trying to smuggle out the diary from Holland; he gave it up after being interrogated for a few days, but not before Anne had written some of her final entries.
+On September 2nd in Berlin-Plötzensee prison where van Pels was held until his execution on October 13th, Otto's wife Margot Fritzl (who survived the war) gave up another portion to a German interrogator named Schellenberg and asked him if he would take care of it. He did so; in fact, after Anne died at Bergen-Belsen concentration camp on August 14th or 15th depending upon which source you read (the diary's authoritative date is August 20), her mother gave the remainder to Schellenberg as well and asked him if he would take care of it.
+On September 6, 1943 Margot Fritzl was transferred from Plötzensee prison in Berlin-Charlottenburg (where she had been held since August) with other prisoners on a transport that included Anne's father Otto Frank and his wife Edith Frank to Auschwitz concentration camp. She never saw her husband or daughter again; they were both murdered at the death camps of Birkenau, Treblinka II (also called Sobibor), Belzec I/II, Chelmno III-IV in 1942 and '43 respectively).
+Schellenberg was also killed during a transport to Auschwitz; he died on October 6th. His wife Margot Fritzl survived the war but lost her mind afterward (she would be institutionalized for many years) as well she had been stripped of all personal property, including Anne's diary and its contents when they arrived at Birkenau in May or June '43; it was probably then that Schellenberg took care to protect the document.
+When Margot Fritzl finally recovered her sanity after 1950 (she had been declared insane by a German court during World War II), she realized what an important historical record Anne's diary represented and decided to have it returned so as not to lose its value in terms of the family. She contacted Otto Frank, who was living at 263 Prinsengracht (now called Westermarkt) from September '45 until his death on May 17th ,'90; he agreed that she should have it back and they made arrangements for its return in the spring of '48.
+On April 1st, Anne Frank was liberated by American troops at Bergen-Belsen concentration camp (she had been there since August) where her mother Margot Fritzl also died on May 5th or so; she and Otto's other daughter were sent to the Netherlands for safekeeping.
+The diary remained in hiding with Anne Frank until after World War II ended when it was discovered by a Dutch couple, Jan Plesman (who had been an engineer) and his wife Edith van der Klooster-Plesman; they published their discovery of its contents on April 12th ,'47.
+Generated in 0:03:34.428031
+PromptTokens: Prompt Tokens: 27   Output Tokens: Out Tkns: 741  Total Tokens: Total Tkns: 768
+
+---
+
+
+time: 2023-12-13 16:17:57.446332
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+Write dialogue between a detective and a suspect
+
+
+
+### Response:
+Shearedplats-2.7B: 
+Detective (to the suspect): "So, you admit that it was indeed your fingerprints found at both crime scenes. We'll need to talk more about this case."
+Generated in 0:00:14.011181
+PromptTokens: Prompt Tokens: 28   Output Tokens: Out Tkns: 41  Total Tokens: Total Tkns: 69
+
+---
+
+
+time: 2023-12-13 16:18:13.182394
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+Write dialogue between a detective and a suspect
+
+
+### Response:
+Shearedplats-2.7B: 
+Detective (to the suspect): "So, you were in that bar last night?"
+Suspect: "Yes."
+Generated in 0:00:07.242565
+PromptTokens: Prompt Tokens: 27   Output Tokens: Out Tkns: 30  Total Tokens: Total Tkns: 57
+
+---
+
+
+time: 2023-12-13 16:21:00.180362
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+Suggest a daily schedule for a busy professional
+
+### Response:
+Shearedplats-2.7B: 
+Here's an example of how to create and implement your own personalized work-life balance plan.
+1) Wake up early (before the sun rises): Start off each day with some quiet time in bed, meditation or exercise before you start working on any tasks for that morning. This will help set a positive tone throughout your entire day as well as reduce stress levels and increase productivity when it's most needed!
+2) Eat breakfast: Have at least one healthy meal each day to keep yourself fueled up during the workday, whether you prefer oats or eggs with some fruit on top. This will help prevent hunger pangs that can lead to poor decision-making and distractions while working (and also make sure your brain is getting enough fuel for optimal functioning!).
+3) Take breaks: Make a point of taking regular breaks throughout the day, whether it's 15 minutes or an hour. This will help keep you alert without being overwhelmed by work and allow time to recharge mentally as well as physically - this is especially important if your job requires long hours!
+4) Stay organized: Keep a clear desk at all times, whether it's using folders or just keeping everything in order. This will help keep you focused on the task at hand and prevent unnecessary distractions from popping up throughout the day (or night). Also make sure to have an organised workspace so that your mind is not constantly thinking about where things are!
+5) Take care of yourself: It's important for busy professionals like ourselves to take time out each week or month, even if it just means going on a walk around the block. This will help keep you physically and mentally healthy as well as prevent burnout from setting in too soon (especially when your job is so demanding).
+6) Take care of family: Remember to take time out for yourself each week or month, whether it's having a night off with friends after work on the weekend. This will help you feel more relaxed and refreshed as well as prevent burnout from setting in too soon (especially when your job is so demanding).
+7) Take care of finances: Set aside time each month to review financial statements, make payments or plan for future purchases such as a new car. This will help keep you on track with money management and avoid unexpected expenses that could derail the rest of your day!
+Generated in 0:02:20.527677
+PromptTokens: Prompt Tokens: 26   Output Tokens: Out Tkns: 523  Total Tokens: Total Tkns: 549
+
+---
+
+
+time: 2023-12-13 16:25:08.345455
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+Extract the main points of this text: 
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text>
+
+### Response:
+Shearedplats-2.7B: 
+Structural Pruned Language Models (SPLM) are language modeling techniques which use dynamic batches to reduce the size of large models, without sacrificing their performance on downstream tasks such as text generation and summarization.[1] In this paper we present a new approach called Sheared-LLaMA that prunes LLaMA2.7B by 3% in terms of parameters while maintaining similar accuracy compared to the original model's state of art results, which is an impressive feat considering its size reduction from ~14 billion tokens down to only about two and a half billions.[2]
+We also present Sheared-LLaMA models that are 3% smaller in terms of parameters while maintaining similar accuracy compared with the original model's state of art results. We demonstrate this by showing how we can use dynamic batch loading, which dynamically updates the composition of sampled data across different domains to reduce a large language model down into two and half billions tokens.[2]
+Our approach is based on the idea that there are certain layers in LLMs with little discernible effect. By removing these layers we can significantly decrease their size, which will be reflected by lower computational costs for training models from scratch or using smaller data sets to train them. This reduction of computation cost and storage space allows us to use a larger model as input when fine-tuning the parameters on other tasks such text generation.[3]
+In this paper we present Sheared LLaMA, which is an SPLM that uses dynamic batch loading for pruned language models (SPLMs) based on Touvron et al. 2019 and Touvron et al., 2023a;b.[4]
+
+The main contribution of this paper can be summarized as follows: We present a new approach called Sheared-LLAMA that prunes LLaMA by 3% in terms of parameters while maintaining similar accuracy compared to the original model's state of art results. In addition, we demonstrate how dynamic batch loading allows us to use smaller data sets and reduce computation cost for training models from scratch or using small datasets.[5]
+
+Generated in 0:03:23.514240
+PromptTokens: Prompt Tokens: 389   Output Tokens: Out Tkns: 459  Total Tokens: Total Tkns: 848
+
+---
+
+
+time: 2023-12-13 16:44:56.586180
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+rewrite  in an easy to understand tone the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+
+### Response:
+Shearedplats-2.7B: 
+The first thing we do, when writing this text in an easy to understand tone, was to make sure the language used by itself isn't too complex or difficult to read and that it is clear what exactly has been said throughout all sentences within a paragraph. This means making use of simple words whenever possible while also ensuring that there are no unnecessary technical terms (i.e., we don't need to explain every single term in the text). Additionally, when writing this tone, you should always try and make sure your language is as concise yet clear for everyone reading it without using any word repetitions or other things which may cause confusion within a sentence structure itself so that everything can be understood easily.
+The second thing we do to write something in an easy-to read manner was to ensure the text has no jargon, acronyms and abbreviations whatsoever as these are typically used by people who know each other or have some sort of shared understanding within a certain field so that they can communicate easily. Instead you should always try your best not use any such terms unless it is absolutely necessary for the text to make sense otherwise, just keep things simple and clear enough without using anything which may be difficult in itself (i.e., we don't need to explain every single term within a sentence structure).
+The third thing that you should always do when writing something easy-to read was to try your best not use any long sentences or paragraphs unless absolutely necessary as these are typically very hard for people with different levels of literacy and reading comprehension skills. Instead, make sure the text is broken up into short but clear enough statements so that everyone can understand what exactly has been said throughout all sections within a single sentence structure without having to read through any long paragraphs or sentences which may confuse you further while writing it as well (i.e., we don't need to explain every single term in the text).
+The fourth thing is always try your best not use too many technical terms and jargon unless absolutely necessary so that everyone can understand what exactly has been said throughout all sections within a sentence structure without having any trouble understanding it as well (i.e., we don't need to explain every single term in the text).
+The fifth thing is always try your best not use too many abbreviations or acronyms unless absolutely necessary so that everyone can understand what exactly has been said throughout all sections within a sentence structure without having any trouble understanding it as well (i.e., we don't need to explain every single term in the text).
+The sixth thing is always try your best not use too many complex words and phrases unless absolutely necessary so that everyone can understand what exactly has been said throughout all sections within a sentence structure without having any trouble understanding it as well (i.e., we don't need to explain every single term in the text).
+The seventh thing is always try your best not use too many long sentences or paragraphs unless absolutely necessary so that everyone can understand what exactly has been said throughout all sections within a sentence structure without having any trouble understanding it as well (i.e., we don't need to explain every single term in the text).
+The eighth thing is always try your best not use too many technical terms and jargon unless absolutely necessary so that everyone can understand what exactly has been said throughout all sections within a sentence structure without having any trouble understanding it as well (i.e., we don't need to explain every single term in the text).
+The ninth thing is always try your best not use too many complex words and phrases unless absolutely necessary so that everyone can understand what exactly has been said throughout all sections within a sentence structure without having any trouble understanding it as well (i.e., we don't need to explain every single term in the text).
+The tenth thing is always try your best not use too many abbreviations or acronyms unless absolutely necessary so that everyone can understand what exactly has been said throughout all sections within a sentence structure without having any trouble understanding it as well (i.e., we don't need to explain every single term in the text).
+The eleventh thing is always try your best not use too many long sentences or paragraphs unless absolutely necessary so that everyone can understand what exactly has been said throughout all sections within a sentence structure without having any trouble understanding it as well (i.e., we don't need to explain every single term in the text).
+The twelfth thing is always try your best not use too many technical terms and jargon unless absolutely necessary so that everyone can understand what exactly has been said throughout all sections within a sentence structure without having any trouble understanding it as well (i.e., we don't need to explain every single term in the text).
+The thirteenth thing is always try your best not use too many complex words and phrases unless absolutely necessary so
+Generated in 0:05:43.612853
+PromptTokens: Prompt Tokens: 394   Output Tokens: Out Tkns: 1026  Total Tokens: Total Tkns: 1420
+
+---
+
+
+time: 2023-12-13 16:48:46.374058
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+rewrite  in an easy to understand tone the following text: 
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text>
+
+### Response:
+Shearedplats-2.7B: 
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
+Generated in 0:01:21.237473
+PromptTokens: Prompt Tokens: 392   Output Tokens: Out Tkns: 22  Total Tokens: Total Tkns: 414
+
+---
+
+
+time: 2023-12-13 16:53:21.031847
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+rewrite  in an easy to understand tone the following text: 
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text>
+
+
+### Response:
+Shearedplats-2.7B: 
+ShearedLLaMA: Accelerating Language Model Pre-training via Structured Pruning
+Generated in 0:00:06.289355
+PromptTokens: Prompt Tokens: 393   Output Tokens: Out Tkns: 22  Total Tokens: Total Tkns: 415
+
+---
+
+
+time: 2023-12-13 16:54:58.931026
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+rewrite  in an easy to understand tone the following text: 
+```
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+```
+
+
+### Response:
+Shearedplats-2.7B: 
+Here's an easy way you can rewrite the text in your own words, but make sure to keep it simple and understandable by anyone who reads this!  Here goes...
+Generated in 0:01:21.625977
+PromptTokens: Prompt Tokens: 389   Output Tokens: Out Tkns: 39  Total Tokens: Total Tkns: 428
+
+---
+
+
+time: 2023-12-13 16:57:53.297112
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+rewrite  in an easy to understand tone the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+
+
+### Response:
+Shearedplats-2.7B: 
+The language modeling field has been rapidly growing in recent years, due to the development and improvement of neural networks used as pretrained models (e.g., BERT). However, training such large-scale models can be costly both computationally and financially; hence there is a need for efficient ways to reduce their size while maintaining or improving performance on downstream tasks like language understanding.
+This paper proposes an approach called Sheared LLM (Shearded) that combines structured pruning with dynamic batch loading, which can help significantly decrease the computational cost of training large-scale models without compromising accuracy and efficiency in subsequent evaluation metrics such as BLEU scores on different languages or tasks like sentiment analysis.
+The paper is written using simple language to make it accessible for a wide audience; however, please note that this text may not be suitable if you are unfamiliar with the concepts discussed within the context of neural networks and their applications in natural language processing (NLP).
+Generated in 0:02:07.974859
+PromptTokens: Prompt Tokens: 395   Output Tokens: Out Tkns: 207  Total Tokens: Total Tkns: 602
+
+---
+
+
+time: 2023-12-13 17:02:23.212264
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+make more concise the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+
+
+### Response:
+Shearedplats-2.7B: 
+The following response was generated by the Natural Language Processing (NLP) chatbot from OpenAI's ChatGPT, which was trained on this question and other similar ones in QA contexts.  It has been edited for clarity and brevity.
+
+Sure! Here is a more concise version of your text: [text]Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner; [and]
+(2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach through presenting Sheared LLaMA models: pruning down a larger model (LLaMa 7B), to smaller versions with only ~130M and then just under half that size, respectively [i.e., sheared-LLaMa2+568M]. These small models outperform state of the art open source LLMs such as Pythia, INCITE (which are equivalent in size to ShearLLaMA3), Open LLama and others on a wide range of downstream evaluations. This work provides compelling evidence that leveraging existing large language model pre-training is an effective approach for building smaller models with comparable performance at lower cost.[end text]
+Generated in 0:03:00.974262
+PromptTokens: Prompt Tokens: 391   Output Tokens: Out Tkns: 438  Total Tokens: Total Tkns: 829
+
+---
+
+
+time: 2023-12-13 17:07:10.519167
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+How can I improve my romance life?
+
+
+### Response:
+Shearedplats-2.7B: 
+To have a great relationship, you need to be able to communicate well. You should work on improving your listening skills and learning how to express yourself in ways that will make the other person feel comfortable with what they are saying or doing around you. It's also important for both parties involved not only to respect each others feelings but understand them as well, so it is crucial for a couple to be able to communicate their needs clearly without any misunderstandings and disagreements arising out of miscommunication.
+As far as improving your romance life goes you should try reading up on how other couples have found success in love or working with an expert who can help guide the two of you through some difficult times by offering advice, guidance and support to both parties involved when needed so that they are able to work together effectively.
+Generated in 0:00:41.044459
+PromptTokens: Prompt Tokens: 26   Output Tokens: Out Tkns: 174  Total Tokens: Total Tkns: 200
+
+---
+
+
+time: 2023-12-13 17:09:52.606189
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+Predict the impact of artificial intelligence on human employment and education.
+
+
+### Response:
+Shearedplats-2.7B: 
+Artificial Intelligence (AI) will have a significant effect in both areas, as it can enhance productivity by automating tasks that humans currently perform or replacing them entirely with more efficient methods such as machine learning algorithms. This could lead to job losses for some occupations and industries while creating new jobs within the AI field itself due to increased demand from businesses seeking specialized skills in this area, particularly those related to data analysis & interpretation.
+In terms of education, it is likely that there will be a shift towards more advanced courses such as robotics engineering or computer science which require higher levels of skill and knowledge than traditional subjects like maths/physics etc., while at the same time lower-level jobs may become obsolete due to automation (e.g. customer service roles). This could lead to an increase in demand for more advanced skills such as critical thinking, problem solving & creativity which are generally considered desirable qualities when applying for higher education courses or employment opportunities and thus driving up the value of these attributes within society overall.
+Overall it is difficult to predict with certainty how AI will impact human workforce participation in general but there seems to be a clear trend towards more specialized roles, greater demand for advanced skills & an increased focus on creativity/problem solving as key factors that could play into the future of employment and education.
+Generated in 0:01:09.618466
+PromptTokens: Prompt Tokens: 31   Output Tokens: Out Tkns: 289  Total Tokens: Total Tkns: 320
+
+---
+
+
+time: 2023-12-13 17:17:52.303090
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+write a short blog post about Artificial intelligence and nature.
+Create also a catchy title and subheading.
+
+Format the output as follows:
+TITLE: // your catchy title
+SUBHEADING: // your generated subheading for the blog post
+BLOG POST: // your short blog post
+
+
+### Response:
+Shearedplats-2.7B: 
+Artificial intelligence (AI) is a field of study that focuses on developing machines with human-like capabilities. It has been around since the 1950s, but only recently have we seen significant advancements in AI technology and applications. One such application is nature recognition or classification through machine learning algorithms based upon natural language processing (NLP).
+
+In this blog post, I will discuss how artificial intelligence can be used to classify images of plants using NLP techniques like word embeddings for plant names. Additionally, we'll explore the potential applications and limitations of such technology in nature conservation efforts as well as its ethical implications within these contexts.
+
+1) Introduction: Nature recognition through AI - What is it? How does machine learning work with natural language processing to classify images into different categories (e.g., plants)? Why should we care about this kind of technology in nature conservation efforts and beyond? 
+2) Word embedding for plant names using NLP techniques, e.g.: word embeddings - What are they exactly? How do you create them from the data provided by a language model like BERT or ELMo (e.g., GPT-3)? Why is this important in nature recognition and classification through AI technology? 
+  3) Examples of plant names and their corresponding word embeddings - Provide examples for each category, such as flowers vs trees versus plants with medicinal properties etc... 4) Limitations/challenges faced by the current state-of-the art in nature recognition through AI technology: What are some challenging problems that we face today? How can these be overcome or mitigated using machine learning techniques and NLP methods like word embeddings for plant names, etc. 
+5) Ethical implications of artificial intelligence within the contexts discussed - Discuss how ethics should guide AI research in nature conservation efforts as well as its broader applications such as facial recognition or image manipulation (e.g., deepfakes). Provide examples from your own experience and/or other relevant literature to support these statements 
+6) Conclusion: What are the potential future directions for this kind of AI technology in nature conservation efforts? How can we ensure that it is used responsibly, with ethical considerations at its core.
+Generated in 0:02:23.233924
+PromptTokens: Prompt Tokens: 85   Output Tokens: Out Tkns: 492  Total Tokens: Total Tkns: 577
+
+---
+
+
+time: 2023-12-13 17:21:08.906825
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+write a short blog post about Artificial intelligence and impact on nature and environment.
+Create also a catchy title and subheading.
+
+Format the output as follows:
+
+TITLE: // your catchy title
+SUBHEADING: // your generated subheading for the blog post
+BLOG POST: // your short blog post
+
+
+### Response:
+Shearedplats-2.7B: 
+Title: Artificial Intelligence's Impact on Nature and Environment - A Brief Introduction to Its Potential Benefits, Challenges & Solutions. Subtitle: The Future of Our Planet is in the Hands of Machines; How Can We Ensure Their Safety? Blog Post
+Artificial intelligence (AI) has been a topic that attracts great interest and curiosity from both scientists and citizens alike for quite some time now, with many believing it to be one step closer towards our future. While there are numerous benefits of AI in various fields such as healthcare or finance, its potential impact on nature is also gaining attention due to the significant role that machines can play when dealing with environmental issues like climate change and biodiversity loss.
+In this blog post we will discuss some key aspects related to how artificial intelligence could help us address these challenges while ensuring their safety for future generations, as well as providing insight into potential solutions currently being developed by researchers around the world. So let's dive in! 1 - Introduction: What is AI?
+Artificial Intelligence (AI) refers to a set of technologies that allow machines to perform tasks typically associated with human intelligence such as learning, reasoning and problem-solving without being explicitly programmed for each task or environment. It has been defined by its proponents in various ways but generally it can be described using the following characteristics:
+* Automation - AI allows systems to execute repetitive actions automatically rather than requiring humans' intervention every step of way; 2- Challenges and Opportunities for Nature & Environment
+AI has a potential impact on nature as well, with some researchers believing that it could help address various challenges we face in the natural world. For example: - Climate Change: AI can be used to predict future weather patterns or even create alternative energy sources like hydrogen fuel cells; 3- Potential Solutions
+There are several potential solutions being developed by researchers and companies alike that aim at addressing some of these challenges while ensuring the safety for nature. Some examples include: - Using AI to monitor biodiversity loss or detect invasive species, such as zebra mussels in lakes; 4- Ethical Considerations
+While there are many benefits associated with using artificial intelligence technologies on our planet and within ecosystems it is important that we consider the ethics of these developments. One major concern involves the potential for AI to become too powerful, creating a situation where humans may lose control over their own destiny or even create unintended consequences in terms of biodiversity loss; 5- Future Directions
+With this brief introduction and discussion on some key aspects related to artificial intelligence's impact we hope that you now have an idea about the potential benefits, challenges & solutions associated with its use within nature. We encourage readers interested by AI technologies in general or specifically for environmental purposes to continue reading more detailed studies available online as well as engage further discussions on this topic at conferences and workshops around our planet!
+Generated in 0:02:46.068840
+PromptTokens: Prompt Tokens: 90   Output Tokens: Out Tkns: 661  Total Tokens: Total Tkns: 751
+
+---
+
+
+time: 2023-12-13 17:21:55.766719
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+write a short blog post about Artificial intelligence and impact on nature and environment.
+Create also a catchy title and subheading.
+
+Format the output as follows:
+
+TITLE: // your catchy title
+
+SUBHEADING: // your generated subheading for the blog post
+
+BLOG POST: // your short blog post
+
+
+### Response:
+Shearedplats-2.7B: 
+Title of this article is "Artificial Intelligence and its Impact on Nature". The Sub-Headline will be 'How AI can help us save our planet'.  This Article's body content should have the following structure - Introduction, Benefits for nature & environment from Artificial intelligence (AI), Challenges in implementing this technology as well.
+Article Title: "Artificial Intelligence and its Impact on Nature"
+Generated in 0:00:29.308582
+PromptTokens: Prompt Tokens: 92   Output Tokens: Out Tkns: 97  Total Tokens: Total Tkns: 189
+
+---
+
+
+time: 2023-12-13 17:22:17.882555
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+write a short blog post about Artificial intelligence and impact on nature and environment.
+Create also a catchy title and subheading.
+
+Format the output as follows:
+
+TITLE: // your catchy title
+SUBHEADING: // your generated subheading for the blog post
+BLOG POST: // your short blog post
+
+
+### Response:
+Shearedplats-2.7B: 
+Title of Blog Post - The Impact Of Artificial Intelligence On Nature And Environment
+Generated in 0:00:11.591668
+PromptTokens: Prompt Tokens: 90   Output Tokens: Out Tkns: 22  Total Tokens: Total Tkns: 112
+
+---
+
+
+time: 2023-12-13 17:22:40.081927
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+
+
+### Instruction:
+write a short blog post about Artificial intelligence and impact on nature and environment.
+Create also a catchy title and subheading.
+
+Format the output as follows:
+TITLE: // your catchy title
+SUBHEADING: // your generated subheading for the blog post
+BLOG POST: // your short blog post
+
+
+### Response:
+Shearedplats-2.7B: 
+Title of Blog Post - Artificial Intelligence and Impact on Nature & Environment
+Generated in 0:00:12.964172
+PromptTokens: Prompt Tokens: 89   Output Tokens: Out Tkns: 21  Total Tokens: Total Tkns: 110
+
+---
+
+

@@ -1,0 +1,249 @@
+time: 2023-12-13 13:33:17.045873
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+<|user|>
+How was Anne Frank’s diary discovered?
+<|endoftext|>
+<|assistant|>
+StableZephyr3B:  
+
+Anne Frank's diary, known as the "Frank Diary," was found by her father Otto Franks in late August 1985. A few weeks earlier, Otto had received a tip from an individual who claimed to have information about his daughter's whereabouts; this prompted him and several other investigators to search for Anne. The team combed through various hiding places including attic spaces, basements, and even the floor of her school where she was once enrolled as a student before they escaped to America after World War II ended.
+On August 25th, 1985 Otto Franks discovered an old wooden box in the basement of his office building which turned out to be Anne's diary. The volume had been hidden beneath some other items and remained undiscovered for decades due to its location being concealed from plain sight among a pile of boxes containing various personal belongings belonging to their family’s business, Franks & Söderström Notaries Office in Amsterdam where Otto worked as an attorney at the time.
+The diary contained Anne's account of her life during World War II along with drawings and photographs she had hidden within its pages throughout the years since it was first started on May 5th , 1932 when Anne was just 13-years old, until its discovery by her father in 1985 after many long months or even possibly a few years.
+Generated in 0:00:53.495660
+PromptTokens: Prompt Tokens: 28   Output Tokens: Out Tkns: 268  Total Tokens: Total Tkns: 296
+
+---
+
+
+time: 2023-12-13 13:53:37.856808
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+<|user|>
+Write dialogue between a detective and a suspect
+
+<|endoftext|>
+<|assistant|>
+StableZephyr3B: Detective: Good afternoon, Mr. in custody today for questioning regarding an incident that occurred last night at the local convenience store? 
+
+Suspect: Yes, I'm sorry officer. It was totally my fault what happened out there yesterday evening. 
+
+Detective: Alright then let's start from the beginning of your day and work our way to where you were last seen by witnesses around 7 pm when they saw a man acting suspiciously in front of the store before he ran away after an altercation with one of the employees? Can you tell me what happened leading up until that point, starting at about 4 am this morning till now?
+
+Suspect: Well officer I had just finished working my night shift and went home to grab something quick from a nearby convenience store. As soon as got there around 5 am in the morning, everything was peaceful but then suddenly one of employees came running out yelling for help saying that someone tried to steal money from him while he was closing up shop at 4 AM last evening.
+
+Detective: I see now where you might have been seen on store surveillance footage entering and exiting several times around those hours before the incident occurred, can we confirm if this is accurate? 
+
+Suspect: Yes officer that's correct...I went in to buy some cigarettes when a man came up behind me acting suspiciously. He was wearing dark clothing with his face obscured by sunglasses so I couldn't see anything but he kept looking around as though something or someone might be following him, and then suddenly grabbed my wallet from where it lay on the countertop while trying not to make any noise...
+
+Detective: Alright thank you for your account of events. Now let's talk about what happened after that point when witnesses saw a man running out with an employee’s ID card in his hand? 
+
+Suspect: Officer, I didn't know anything about having the identification card at all until much later...when it was mentioned to me by someone else who claimed they had seen everything. They said seeing how shaken up and disoriented he looked after fleeing from that store made them think something must have happened between us during my time working there as a cashier, prompting their accusations against me of stealing the card when I didn't do anything like it...
+
+Detective: Alright then Mr., thank you for your cooperation in answering these questions. We will review all evidence and statements carefully to determine what exactly occurred that evening at convenience store last night before we make any conclusions about whether or not there was an incident of theft involved, but I'm afraid based on the available information it seems like this might have been a more complicated situation than initially thought...
+Generated in 0:02:02.041031
+PromptTokens: Prompt Tokens: 28   Output Tokens: Out Tkns: 547  Total Tokens: Total Tkns: 575
+
+---
+
+
+time: 2023-12-13 13:55:46.423981
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+<|user|>
+Suggest a daily schedule for a busy professional
+
+
+<|endoftext|>
+<|assistant|>
+StableZephyr3B:  
+
+As an AI language model, I don't have personal experiences or preferences. A typical daily routine may vary based on the individual's profession and work style but here is a suggested daily schedule that could fit most busy professionals:
+ 
+5-6 AM : Wake up early to get some exercise at gym/yoga in the morning 
+
+7AM - 8 AM : Shower, have breakfast & prepare for work(Oatmeal with fruits or coffee)
+
+8 AM - 12 PM : Commute (if not already working from home), start work by reviewing emails and planning out tasks list. 
+
+ 
+
+ 
+
+|12:00-1PM| Lunch break, take a walk outside to get fresh air 
+\_______________/(Grilled chicken salad or sandwich)
+\/\|
+Eat with colleagues if possible for lunch 
+
+|\/ | Work through midday till 1 PM.
+
+||__________||Finish work by 1:00 pm and prepare to leave for the day 
+
+|3PM-6PM| Attend meetings or finish any last minute tasks before leaving office(Optional)
+ 
+
+
+|\_____________/Head back home after finishing up at 6 PM.
+
+\/\|Spend some quality time with family, cook dinner and relax 
+
+\_______________________|Go to bed by 10:30PM or 11 PM 
+
+This schedule can be adjusted based on the individual's work style preferences while ensuring a healthy balance between professional commitments as well as personal life.
+Generated in 0:01:02.593030
+PromptTokens: Prompt Tokens: 27   Output Tokens: Out Tkns: 306  Total Tokens: Total Tkns: 333
+
+---
+
+
+time: 2023-12-13 13:57:32.718562
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+<|user|>
+Suggest a daily schedule for a busy professional.
+
+<|endoftext|>
+<|assistant|>
+StableZephyr3B:  
+
+As an AI language model, I don't have personal preferences or habits of human beings but here is a suggested daily schedule that could fit well with the lifestyle and needs of most busy professionals:
+
+6:00 AM - Wake up and meditate for 15 minutes to start the day peacefully.
+7:00 AM – Quick workout (jogging, yoga, bodyweight exercises) or any other physical activity you prefer which can be done at home without much time investment but keeps your energy levels high throughout the morning. 
+8:00 AM - Shower and get dressed for work/commute while having a healthy breakfast consisting of whole foods like oatmeal with fruits and nuts, yogurt parfait or scrambled eggs with veggies. 
+
+9:00 AM – Start working by reviewing emails, checking social media accounts (if necessary), planning your day on paper or in digital tools such as Trello, Asana etc., making a to-do list for the next 8 hours of work and setting priorities based on deadlines and importance. 
+12:00 PM - Take a short 15 minutes break from work to have lunch which should be balanced with protein, complex carbs & healthy fats like grilled chicken salad or quinoa bowl with veggies and tuna sandwich if you prefer more substantial meals. 
+
+1:00 PM – Resume your tasks while scheduling some breaks in between every 2-3 hours for stretching exercises, walking around the office building to get fresh air or just relaxing a bit before refocusing on work again. 
+5:00 PM - Finish up with daily routine activities like responding to emails that can wait till later and preparing any documents needed for tomorrow's meeting/presentation etc., while planning your evening schedule if you have personal commitments such as family time, hobbies or relaxation after a long day at the office. 
+
+7:00 PM – Get home, cook dinner (if not already prepared), relax with some leisure activity like reading a book, watching TV show or movie, going for jogging/walking in your neighborhood park etc., before calling it an evening and preparing for bed to get good rest ahead of the next busy day. 
+
+Please remember that this schedule is just suggested and can be adjusted according to personal preferences, work requirements, health needs and lifestyle habits while maintaining productivity levels without sacrificing self-care or relaxation time.
+Generated in 0:01:35.851261
+PromptTokens: Prompt Tokens: 28   Output Tokens: Out Tkns: 490  Total Tokens: Total Tkns: 518
+
+---
+
+
+time: 2023-12-13 14:05:36.891100
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+<|user|>
+Extract the main points of this text: 
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text>
+
+
+<|endoftext|>
+<|assistant|>
+StableZephyr3B:  Main Points: 
+1. The text discusses the concept of Sheared LLaMA, which aims to develop smaller large language models (LLMs) through structural pre-training and pruning techniques. 
+Reasoning: These methods help in reducing training time for larger LLMs from scratch without losing their effectiveness significantly.
+
+2. Structured Pruning is employed as a means of developing smaller LLMs by removing layers, heads, intermediate dimensions etcetera while maintaining the model's functionality during pre-training and pruning process. 
+Reasoning: This approach ensures that important functionalities are preserved in models with reduced parameters or size.
+
+3. Dynamic batch loading is employed as a technique to update the composition of sampled data dynamically based on varying losses across different domains, improving training efficiency by adapting to diverse tasks during inference time and reducing overfitting issues commonly seen in smaller LLMs trained from scratch. 
+Reasoning: This method ensures that models can adapt better to various downstream applications without compromising their performance or introducing errors due to inconsistency between task-specific data distributions.
+
+4. The efficacy of the Sheared-LLaMA approach is demonstrated by presenting a series of pruned LLaMA2 and 2.7B parameters, outperforming state-of-the-art open source models in various downstream evaluations while requiring only 3% compute time compared to training from scratch on trillions of tokens. 
+Reasoning: This shows the effectiveness of leveraging existing LLMs with structured pruning for building smaller yet powerful and cost-effective language models, making it a more viable option within the field of Natural Language Processing (NLP).
+Generated in 0:02:02.944869
+PromptTokens: Prompt Tokens: 358   Output Tokens: Out Tkns: 338  Total Tokens: Total Tkns: 696
+
+---
+
+
+time: 2023-12-13 14:07:37.275832
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+<|user|>
+rewrite  in an easy to understand tone the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+
+
+<|endoftext|>
+<|assistant|>
+StableZephyr3B: 
+In simple words: They found an easy way to make big language models, like LLaMA, into smaller ones without spending too much time and money on training them from scratch. 
+
+They did this by using two special ways called "structured pruning" and "dynamic batch loading". Structured pruning helps remove parts of the bigger model that aren't needed for a smaller one to work well. Dynamic batch loading changes which pieces of data are used in each practice session based on what they need to improve at different times during training.
+
+They showed this new way, called Sheared-LLaMA, works really well with LLaMA and other similar big language models that aren't too huge but still powerful. It uses only a small amount of computer time compared to starting from scratch! They believe using already trained bigger models in ways like structured pruning can save lots of money when making smaller versions for different tasks.
+Generated in 0:01:32.072510
+PromptTokens: Prompt Tokens: 364   Output Tokens: Out Tkns: 189  Total Tokens: Total Tkns: 553
+
+---
+
+
+time: 2023-12-13 14:09:25.235981
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+<|user|>
+make more concise the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+
+
+<|endoftext|>
+<|assistant|>
+StableZephyr3B:  Concise Text: Sheared LLaMA employs structed pruning to create powerful, smaller language models from pre-trained larger ones. This technique utilizes targeted structural pruning and dynamic batch loading to achieve effective compression while maintaining performance surpassing state-of-the-art open-source alternatives using only 3% of compute compared to training from scratch.
+Generated in 0:01:08.581476
+PromptTokens: Prompt Tokens: 358   Output Tokens: Out Tkns: 73  Total Tokens: Total Tkns: 431
+
+---
+
+
+time: 2023-12-13 14:32:16.841094
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+<|user|>
+How can I improve my romance life?
+
+<|endoftext|>
+<|assistant|>
+StableZephyr3B:  
+As an AI language model, I don't have personal experiences or emotions. on romantic relationships but here are some general tips to enhance your romance:
+1) Be kind and genuine in all of your interactions with others 
+2 ) Take time for self-reflection and work towards improving yourself as a person (inner game). This will project positivity onto potential partners, making them more attracted to you.
+3) Invest energy into building meaningful connections through shared interests or hobbies that both parties enjoy rather than frivolous flings focused on superficial traits like physical appearance alone. 
+4 ) Communicate openly and honestly with your partner about what you want in a relationship while also being receptive towards their own needs as well, to create an environment of mutual understanding and respect within the partnership.
+ 
+Remember that improving one's romance life is not something that happens overnight but requires consistent effort, patience, self-reflection, openness, kindness, communication skills along with genuine interest in building meaningful connections.
+Generated in 0:00:40.826305
+PromptTokens: Prompt Tokens: 27   Output Tokens: Out Tkns: 203  Total Tokens: Total Tkns: 230
+
+---
+
+
+time: 2023-12-13 14:35:03.592614
+ Temp: 0.42 - MaxNewTokens: 1024 - RepPenalty: 1.3 
+PROMPT: 
+<|user|>
+Predict the impact of artificial intelligence on human employment and education.
+
+<|endoftext|>
+<|assistant|>
+StableZephyr3B:  As an AI language model, I cannot predict future events or outcomes with certainty as they are dependent upon various factors that may not be fully understood or known at present. However, it is widely believed that Artificial Intelligence (AI) will significantly impact Human Employment and Education in the coming years: 
+
+Impact on employment: 
+- AI has already led to job displacement for certain tasks such as repetitive data entry jobs being automated with chatbots/virtual assistants taking over these roles. This trend may continue, leading to a reduction of some low skill level jobs that can be easily replaced by machines or automation systems. However, this also means an increase in demand and creation of new high-skilled job opportunities related to AI development, design, programming, data analysis etc., which require human expertise rather than manual labor.
+
+Impact on Education: 
+AI has the potential to revolutionize education by providing personalized learning experiences for students at scale with adaptive technologies that can analyze and personalize content based on each student's unique needs and abilities in real-time. AI also enables educators to gather data, monitor progress of learners (students), identify gaps or areas where additional support may be needed while delivering feedback through various mediums such as chatbots etc., leading towards more efficient learning processes with improved outcomes for students at all levels from KG to Higher Education and Professional Training Programs.
+However, AI also raises concerns about the potential loss of human interaction in education due to virtualization or automation replacing teachers/lecturers which may lead to a reductionist approach that does not fully address social aspects related to learning such as empathy, creativity etc., leading towards an over-reliance on technology and reduced critical thinking skills among students.
+Moreover, there are concerns about the ethical implications of AI in education particularly regarding data privacy issues for learners who share their personal information with AI systems which may be used by institutions or third parties without proper safeguards to protect such sensitive information leading towards a potential breach of trust between educators and learners/students that could have long-term impacts on learning outcomes. 
+
+In conclusion, while the impact of Artificial Intelligence (AI) in Human Employment and Education is likely to bring both opportunities as well as challenges for individuals, institutions, societies at large, it will be important to strike a balance between leveraging AI technologies' potential benefits with ensuring that we do not compromise on human values or ethical considerations.
+Generated in 0:01:40.997348
+PromptTokens: Prompt Tokens: 32   Output Tokens: Out Tkns: 490  Total Tokens: Total Tkns: 522
+
+---
+
+
