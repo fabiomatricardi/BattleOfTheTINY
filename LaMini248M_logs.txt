@@ -1,0 +1,216 @@
+time: 2023-12-14 10:21:37.106626
+ Temp: 0.42 - MaxNewTokens: 422 - RepPenalty: 1.2 
+PROMPT: 
+write a short blog post about Artificial intelligence and impact on nature and environment.
+Create also a catchy title and subheading.
+
+Format the output as follows:
+
+TITLE: // your catchy title
+SUBHEADING: // your generated subheading for the blog post
+BLOG POST: // your short blog post
+LaMini77M: <pad> Title: Artificial Intelligence and Impact on Nature and Environment Subheading: AI's impact on nature and environment.</s>
+Generated in 0:00:01.296333
+PromptTokens: Prompt Tokens: 69   Output Tokens: Out Tkns: 27  Total Tokens: Total Tkns: 96
+
+---
+
+
+time: 2023-12-14 10:21:54.799472
+ Temp: 0.42 - MaxNewTokens: 422 - RepPenalty: 1.2 
+PROMPT: 
+write a short blog post about Artificial intelligence and impact on nature and environment.
+Create also a catchy title and subheading.
+Format the output as follows:
+
+TITLE: // your catchy title
+SUBHEADING: // your generated subheading for the blog post
+BLOG POST: // your short blog post
+LaMini77M: <pad> Title: Artificial Intelligence and Impact on Nature and Environment Subheading: AI's impact on nature and environment.</s>
+Generated in 0:00:01.197386
+PromptTokens: Prompt Tokens: 69   Output Tokens: Out Tkns: 27  Total Tokens: Total Tkns: 96
+
+---
+
+
+time: 2023-12-14 10:21:59.984050
+ Temp: 0.42 - MaxNewTokens: 422 - RepPenalty: 1.2 
+PROMPT: 
+write a short blog post about Artificial intelligence and impact on nature and environment.
+Create also a catchy title and subheading.
+Format the output as follows:
+TITLE: // your catchy title
+SUBHEADING: // your generated subheading for the blog post
+BLOG POST: // your short blog post
+LaMini77M: <pad> Title: Artificial Intelligence and Impact on Nature and Environment Subheading: AI's impact on nature and environment.</s>
+Generated in 0:00:01.197709
+PromptTokens: Prompt Tokens: 69   Output Tokens: Out Tkns: 27  Total Tokens: Total Tkns: 96
+
+---
+
+
+time: 2023-12-14 10:22:15.790616
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+PROMPT: 
+write a short blog post about Artificial intelligence and impact on nature and environment.
+Create also a catchy title and subheading.
+Format the output as follows:
+TITLE: // your catchy title
+SUBHEADING: // your generated subheading for the blog post
+BLOG POST: // your short blog post
+LaMini77M: <pad> Title: Artificial Intelligence and Impact on Nature and Environment Subheading: AI's impact on nature and environment.</s>
+Generated in 0:00:01.190253
+PromptTokens: Prompt Tokens: 69   Output Tokens: Out Tkns: 27  Total Tokens: Total Tkns: 96
+
+---
+
+
+time: 2023-12-14 10:22:30.754754
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+PROMPT: 
+write a short blog post about Artificial intelligence and impact on nature and environment. Create also a catchy title and subheading. Format the output as follows:
+TITLE: // your catchy title
+SUBHEADING: // your generated subheading for the blog post
+BLOG POST: // your short blog post
+LaMini77M: <pad> Title: Artificial Intelligence and Impact on Nature and Environment Subheading: AI's impact on nature and environment.</s>
+Generated in 0:00:01.203172
+PromptTokens: Prompt Tokens: 69   Output Tokens: Out Tkns: 27  Total Tokens: Total Tkns: 96
+
+---
+
+
+time: 2023-12-14 10:22:46.160216
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+PROMPT: 
+write a short blog post about Artificial intelligence and impact on nature and environment. Create also a catchy title and subheading. Format the output as follows: TITLE: // your catchy title
+SUBHEADING: // your generated subheading for the blog post
+BLOG POST: // your short blog post
+LaMini77M: <pad> Title: Artificial Intelligence and Impact on Nature and Environment Subheading: AI's impact on nature and environment.</s>
+Generated in 0:00:01.205294
+PromptTokens: Prompt Tokens: 69   Output Tokens: Out Tkns: 27  Total Tokens: Total Tkns: 96
+
+---
+
+
+time: 2023-12-14 10:24:51.830655
+ Temp: 0.4 - MaxNewTokens: 422 - RepPenalty: 1.2 
+PROMPT: 
+How was Anne Frank’s diary discovered?
+
+LaMini248M: <pad> Anne Frank's diary was discovered by a group of researchers who were working on the discovery of her diary in 1915.</s>
+Generated in 0:00:01.197023
+PromptTokens: Prompt Tokens: 10   Output Tokens: Out Tkns: 28  Total Tokens: Total Tkns: 38
+
+---
+
+
+time: 2023-12-14 10:26:18.925128
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+Write dialogue between a detective and a suspect
+
+LaMini248M: <pad> Detective: Hi there, I'm looking for a suspect in the case. Can you help me with that? Suspect: Sure, what are you looking for? Detective: Well, I was wondering if you could provide any information about the crime scene or any other relevant details. Suspect: Okay, I can do that. What kind of evidence are you looking for? Detective: There is no specific evidence to support this claim. It seems like someone has been involved in something illegal or unethical. Suspect: That sounds interesting. Do you have any clues or evidence that might be supporting this claim? Detective: Yes, we have some evidence that suggests the suspect may have been involved in something illegal or unethical. We also need more information about the victim and their background to make an informed decision. Suspect: Thank you so much for your help. I appreciate it. Detective: No problem at all. Let me know if you need anything else from me.</s>
+Generated in 0:00:09.591220
+PromptTokens: Prompt Tokens: 11   Output Tokens: Out Tkns: 204  Total Tokens: Total Tkns: 215
+
+---
+
+
+time: 2023-12-14 10:26:49.961200
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+Suggest a daily schedule for a busy professional
+
+LaMini248M: <pad> Here's a suggested daily schedule for a busy professional: 1. Wake up at the same time every day 2. Prioritize tasks and focus on one task at a time 3. Take short breaks throughout the day 4. Avoid multitasking and focus on one task at a time 5. Stay organized by keeping track of deadlines and appointments 6. Exercise or take a break to recharge 7. Delegate tasks when possible 8. Review progress regularly and adjust as needed.</s>
+Generated in 0:00:04.106617
+PromptTokens: Prompt Tokens: 13   Output Tokens: Out Tkns: 95  Total Tokens: Total Tkns: 108
+
+---
+
+
+time: 2023-12-14 10:27:24.449615
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+Extract the main points of this text: 
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text>
+LaMini248M: <pad> - Sheared LLaMA is an effective approach for building smaller LLMs. - The popularity of LLaMA and other recently emerged moderate-sized large language models highlights the potential of building smaller yet powerful LLMs. - The cost of training such models from scratch on trillions of tokens remains high. - Structured pruning employs two key techniques: targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner. - Dynamic batch loading dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. - The effectiveness of the approach is demonstrated by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. - Leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.</s>
+Generated in 0:00:12.343828
+PromptTokens: Prompt Tokens: 362   Output Tokens: Out Tkns: 221  Total Tokens: Total Tkns: 583
+
+---
+
+
+time: 2023-12-14 10:28:01.762895
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+rewrite  in an easy to understand tone the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+LaMini248M: <pad> The Sheared LLaMA approach is effective in developing smaller LLMs from pre-trained, larger models. It employs two techniques: targeted structured pruning and dynamic batch loading. By using these techniques, we demonstrate the efficacy of our approach by showing how it outperforms state-of-the-art open-source models on downstream and instruction tuning evaluations while requiring only 3% of compute.</s>
+Generated in 0:00:04.926691
+PromptTokens: Prompt Tokens: 366   Output Tokens: Out Tkns: 91  Total Tokens: Total Tkns: 457
+
+---
+
+
+time: 2023-12-14 10:28:29.822624
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+make more concise the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+LaMini248M: <pad> Sheared LLaMA accelerates language model pre-training via structured pruning, employing targeted and dynamic batch loading techniques to develop smaller LLMs from pre-trained models. The approach outperforms state-of-the-art open-source models on downstream and instruction tuning evaluations while requiring only 3% of compute.</s>
+Generated in 0:00:03.904064
+PromptTokens: Prompt Tokens: 360   Output Tokens: Out Tkns: 74  Total Tokens: Total Tkns: 434
+
+---
+
+
+time: 2023-12-14 10:28:54.038423
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+How can I improve my romance life?
+
+LaMini248M: <pad> 1. Set clear boundaries and expectations. 2. Communicate openly and honestly with your partner. 3. Find common ground and build a strong connection. 4. Practice active listening and empathy towards each other. 5. Be patient and persistent in finding love. 6. Avoid overcommitting yourself and focus on the positive aspects of your relationship. 7. Seek professional help or counseling when needed.</s>
+Generated in 0:00:03.293858
+PromptTokens: Prompt Tokens: 9   Output Tokens: Out Tkns: 75  Total Tokens: Total Tkns: 84
+
+---
+
+
+time: 2023-12-14 10:29:56.824352
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+Predict the impact of artificial intelligence on human employment and education.
+
+LaMini248M: <pad> Artificial intelligence has the potential to significantly impact human employment and education by automating many tasks, improving efficiency and productivity, enhancing communication and collaboration among employees, and creating new job opportunities. However, it also raises concerns about privacy, bias, and job displacement.</s>
+Generated in 0:00:02.377167
+PromptTokens: Prompt Tokens: 14   Output Tokens: Out Tkns: 55  Total Tokens: Total Tkns: 69
+
+---
+
+
+time: 2023-12-14 13:13:47.724661
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+Use the following context to  reply the user question. If the context does not contain the information for the answer, reply "I cannot reply!".
+[context]
+The Diary of a Young Girl, often referred to as The Diary of Anne Frank, is a book of the writings from the Dutch-language diary kept by Anne Frank while she was in hiding for two years with her family during the Nazi occupation of the Netherlands. The family was apprehended in 1944, and Anne Frank died of typhus in the Bergen-Belsen concentration camp in 1945. Anne's diaries were retrieved by Miep Gies and Bep Voskuijl. Miep gave them to Anne's father, Otto Frank, the family's only survivor, just after the Second World War was over.
+The diary has since been published in more than 70 languages. First published under the title Het Achterhuis. Dagboekbrieven 14 Juni 1942 – 1 Augustus 1944 (The Annex: Diary Notes 14 June 1942 – 1 August 1944) by Contact Publishing [nl] in Amsterdam in 1947, the diary received widespread critical and popular attention on the appearance of its English language translation, Anne Frank: The Diary of a Young Girl by Doubleday & Company (United States) and Vallentine Mitchell (United Kingdom) in 1952. Its popularity inspired the 1955 play The Diary of Anne Frank by the screenwriters Frances Goodrich and Albert Hackett, which they adapted for the screen for the 1959 movie version. The book is included in several lists of the top books of the 20th century
+In the manuscript, her original diaries are written over three extant volumes. The first volume (the red-and-white checkered autograph book) covers the period between 14 June and 5 December 1942. Since the second surviving volume (a school exercise book) begins on 22 December 1943, and ends on 17 April 1944, it is assumed that the original volume or volumes between December 1942 and December 1943 were lost, presumably after the arrest, when the hiding place was emptied on Nazi instructions. However, this missing period is covered in the version Anne rewrote for preservation. The third existing volume (which was also a school exercise book) contains entries from 17 April to 1 August 1944, when Anne wrote for the last time three days before her arrest. 
+The manuscript, written on loose sheets of paper, was found strewn on the floor of the hiding place by Miep Gies and Bep Voskuijl after the family's arrest,[22] but before their rooms were ransacked by a special department of the Amsterdam office of the Sicherheitsdienst (SD, Nazi intelligence agency) for which many Dutch collaborators worked.[23] The papers were given to Otto Frank after the war, when Anne's death was confirmed in July 1945 by sisters Janny and Lien Brilleslijper, who were with Margot and Anne in Bergen-Belsen.
+[end of context]
+
+Question: How was Anne Frank’s diary discovered?
+
+LaMini248M: <pad> Anne Frank's diary was discovered by Miep Gies and Bep Voskuijl, who found the manuscript on loose sheets of paper after the family's arrest.</s>
+Generated in 0:00:03.068592
+PromptTokens: Prompt Tokens: 676   Output Tokens: Out Tkns: 41  Total Tokens: Total Tkns: 717
+
+---
+
+

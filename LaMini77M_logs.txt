@@ -1,0 +1,205 @@
+time: 2023-12-13 22:19:50.868116
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+hi there
+StableZephyr3B: I'm sorry, but as an AI language model, I don't have access to your personal information. Can you please provide me with more details or context so that I can assist you better?
+Generated in 0:00:00.938176
+PromptTokens: Prompt Tokens: 2   Output Tokens: Out Tkns: 41  Total Tokens: Total Tkns: Prompt Tokens: 2 + Out Tkns: 41
+
+---
+
+
+time: 2023-12-13 22:20:12.400156
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+write a 200 words blog post about the future of Artificial Intelligence
+StableZephyr3B: Artificial Intelligence: A New Approach to Developing and Implementing AI in the Future. The future of artificial intelligence is uncertain, but it has been driven by various factors such as advancements in machine learning algorithms, new technologies like virtual assistants and autonomous vehicles. With this shift towards more efficient data processing and automation, there are many possibilities for AI to be used in our daily lives. One potential development could include improved decision-making processes, better communication with customers, and increased efficiency in tasks that require human intervention. Another potential development could involve developing intelligent machines that can perform complex task management tasks without being explicitly programmed or trained. This could lead to faster response times and reduced costs for businesses. In addition to these challenges, AI will also have significant implications on society and society. It will enable people to work from anywhere in the world, making it easier for individuals to learn and improve their skills. Overall, the future of AI is a promising opportunity for innovation and growth. While it may not always seem feasible, it's possible that AI will continue to evolve over time and adapt to changing circumstances.
+Generated in 0:00:04.847967
+PromptTokens: Prompt Tokens: 15   Output Tokens: Out Tkns: 224  Total Tokens: Total Tkns: Prompt Tokens: 15 + Out Tkns: 224
+
+---
+
+
+time: 2023-12-14 09:27:45.218801
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+hi there
+StableZephyr3B: <pad> Sure, what would you like me to do?</s>
+Generated in 0:00:00.253867
+PromptTokens: Prompt Tokens: 2   Output Tokens: Out Tkns: 12  Total Tokens: Total Tkns: Prompt Tokens: 2Out Tkns: 12
+
+---
+
+
+time: 2023-12-14 09:28:31.859192
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+write a 200 words blog post about artificial intelligence
+StableZephyr3B: <pad> Artificial Intelligence (AI) is a rapidly growing field that has revolutionized the way we think about our world. With advancements in technology, AI can help us make more informed decisions and improve our ability to perform tasks faster than ever before. One of the most significant benefits of artificial intelligence is its ability to automate repetitive tasks such as text-based chatbots and voice assistants. This allows for easier decision making and better accuracy in tasks. The use of machine learning algorithms also helps us understand how human behavior works and how it affects our daily lives. In addition to AI, there are many other areas where AI can be used to enhance productivity and efficiency. For example, robotics has become increasingly popular among humans due to its ability to learn from data and analyze patterns. However, there are still some challenges that require careful consideration when designing AI systems. Some examples include: 1. Data analysis: AI is often used to identify patterns or trends in natural language processing. It involves using computer models to predict patterns and make predictions on new information. 2. Machine learning: AI is an advanced tool that uses neural networks to train machines to recognize patterns and make predictions. These techniques have been shown to be useful in various industries, including healthcare, finance, and transportation. 3. Natural Language Processing: AI is widely used in fields like medicine, education, and customer service. There are several ways to create personalized recommendations and services. 4. Image recognition: AI is used to detect images and videos, which can provide insights into real-world situations. 5. Speech recognition: AI is used to track speech recognition, which can aid in communication and collaboration between different people. Overall, AI is a powerful tool that can transform our everyday life by providing valuable insights and insights. By taking steps to improve our understanding of the world around us, we can ensure that we continue to work towards creating intelligent solutions that will benefit everyone.</s>
+Generated in 0:00:09.252501
+PromptTokens: Prompt Tokens: 10   Output Tokens: Out Tkns: 386  Total Tokens: Total Tkns: Prompt Tokens: 10Out Tkns: 386
+
+---
+
+
+time: 2023-12-14 10:00:45.845985
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+tell me a joke
+StableZephyr3B: <pad> Why did the tomato turn red? Because it saw the salad dressing!</s>
+Generated in 0:00:00.330164
+PromptTokens: Prompt Tokens: 5   Output Tokens: Out Tkns: 16  Total Tokens: Total Tkns: Prompt Tokens: 5Out Tkns: 16
+
+---
+
+
+time: 2023-12-14 10:08:52.232341
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+How was Anne Frank’s diary discovered?
+LaMini77M: <pad> Anne Frank's diary was discovered by a group of scientists who were working on the discovery of her journal.</s>
+Generated in 0:00:00.476783
+PromptTokens: Prompt Tokens: 9   Output Tokens: Out Tkns: 25  Total Tokens: Total Tkns: 34
+
+---
+
+
+time: 2023-12-14 10:10:55.434517
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+Write dialogue between a detective and a suspect
+
+LaMini77M: <pad> Detective: Hey, have you heard about the detective's recent report? Assistant: No, I haven't. What do you think of it? Detective: Well, he was thinking that he might be interested in finding out more about his past and how he has been working on this project for years. Do you know what kind of work or situation he is doing? Detective: Yes, we are currently investigating a case where a suspect is involved in an investigation. It's important to note that there may be other factors at play that could affect the outcome of the investigation. Assistant: That sounds interesting. Have you seen any suspicious activity lately? Detective: Not yet, but I'm sure it will help us better understand its significance. We need to make sure we take all necessary precautions before making any further investigations.</s>
+Generated in 0:00:03.520700
+PromptTokens: Prompt Tokens: 11   Output Tokens: Out Tkns: 176  Total Tokens: Total Tkns: 187
+
+---
+
+
+time: 2023-12-14 10:11:41.908024
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+Suggest a daily schedule for a busy professional
+
+LaMini77M: <pad> Monday: - Wake up at the same time every day - Take breaks and stretch regularly to avoid burnout - Work on your own projects or assignments - Practice mindfulness or meditation - Get enough sleep and exercise - Eat healthy, balanced meals with plenty of fruits and vegetables - Stay organized and prioritize tasks - Seek support from colleagues or friends if needed.</s>
+Generated in 0:00:01.540091
+PromptTokens: Prompt Tokens: 13   Output Tokens: Out Tkns: 80  Total Tokens: Total Tkns: 93
+
+---
+
+
+time: 2023-12-14 10:11:56.159794
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+Suggest a daily schedule for a busy professional
+LaMini77M: <pad> Here's a daily schedule for a busy professional: Monday: - Wake up at the same time every day - Take breaks and stretch regularly to avoid burnout - Work on your own projects or assignments - Practice mindfulness or meditation - Get enough sleep and exercise - Eat healthy, balanced meals with plenty of fruits and vegetables - Stay organized and prioritize tasks - Seek support from colleagues or supervisors if needed.</s>
+Generated in 0:00:01.793461
+PromptTokens: Prompt Tokens: 12   Output Tokens: Out Tkns: 94  Total Tokens: Total Tkns: 106
+
+---
+
+
+time: 2023-12-14 10:12:44.649094
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+Extract the main points of this text: 
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text>
+LaMini77M: <pad> - Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning - The popularity of LLaMA and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller LLMs from pre-trained, larger models. - Our approach employs two key techniques: targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. - We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. - This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.</s>
+Generated in 0:00:05.827415
+PromptTokens: Prompt Tokens: 362   Output Tokens: Out Tkns: 224  Total Tokens: Total Tkns: 586
+
+---
+
+
+time: 2023-12-14 10:13:50.165716
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+rewrite  in an easy to understand tone the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+LaMini77M: <pad> The Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning is an effective way to develop smaller LLMs from pre-trained, larger models. It employs two key techniques: targeted structured pruning and dynamic batch loading, which automatically updates the composition of sampled data in each training batch based on different losses across different domains. This approach emphasizes the effectiveness of our approach by providing evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.</s>
+Generated in 0:00:02.708738
+PromptTokens: Prompt Tokens: 366   Output Tokens: Out Tkns: 120  Total Tokens: Total Tkns: 486
+
+---
+
+
+time: 2023-12-14 10:14:54.459196
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+make more concise the following text: 
+[text]
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+[end of text]
+LaMini77M: <pad> Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning is an effective way to develop smaller LLMs from pre-trained, larger models. The approach employs two key techniques: targeted structured pruning and dynamic batch loading. We demonstrate the efficacy of our approach by representing the LLaMA2-7B model down to 1.3B and 2.7B parameters. This work provides evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.</s>
+Generated in 0:00:02.771915
+PromptTokens: Prompt Tokens: 360   Output Tokens: Out Tkns: 120  Total Tokens: Total Tkns: 480
+
+---
+
+
+time: 2023-12-14 10:15:25.339233
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+How can I improve my romance life?
+
+LaMini77M: <pad> You can improve your romance life by setting boundaries, seeking support from friends and family, avoiding romantic relationships, practicing good communication skills, and finding common ground.</s>
+Generated in 0:00:00.686475
+PromptTokens: Prompt Tokens: 9   Output Tokens: Out Tkns: 34  Total Tokens: Total Tkns: 43
+
+---
+
+
+time: 2023-12-14 10:16:05.341241
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+Predict the impact of artificial intelligence on human employment and education.
+
+LaMini77M: <pad> Artificial intelligence has had a significant impact on human employment and education. It can provide new opportunities for career advancement, job creation, and more efficient work-life balance. However, it is important to note that AI may not be as effective in improving the quality of life for all individuals, regardless of their gender or ethnicity.</s>
+Generated in 0:00:01.274578
+PromptTokens: Prompt Tokens: 14   Output Tokens: Out Tkns: 68  Total Tokens: Total Tkns: 82
+
+---
+
+
+time: 2023-12-14 10:16:58.660488
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+write a short blog post about Artificial intelligence and impact on nature and environment.
+Create also a catchy title and subheading.
+
+Format the output as follows:
+
+TITLE: // your catchy title
+SUBHEADING: // your generated subheading for the blog post
+BLOG POST: // your short blog post
+LaMini77M: <pad> Title: Artificial Intelligence and Impact on Nature and Environment - A Brief History of the Human Genome. This article discusses how AI has transformed our environment, including its impact on wildlife, ecosystems, and human health. The topic is about the importance of artificial intelligence in shaping our world's natural landscape. It highlights the need for more efficient use of technology to improve our daily lives. Subject: How AI can affect nature and environment - An Overview of the benefits of AI in various fields. Topic: What are some of the key impacts of AI on nature and environment - In this post, we will explore the potential implications of AI on the environment. Here are some examples of the major challenges that AI faces while also exploring the role of humans in society. 1. Introduction: AI is an essential tool for understanding the effects of AI on the environment - By using algorithms like machine learning or deep neural networks, AI can help us understand the behavior of animals and their interactions with each other. 2. Description: AI is used to analyze data from large datasets, such as images, videos, and audio recordings. These models provide insights into the patterns and behaviors of animals, which helps us better understand what they do. 3. Summary: The main points of the blog post include the importance of creating a comprehensive summary of the content. 4. Conclusion: With the development of AI, it is important to continue developing new technologies and solutions to address these issues. 5. Outline: The impact of AI on nature and environment - From animal welfare to environmental sustainability, there are many ways to make informed decisions about how to mitigate the negative consequences of AI. 6. Subheading: As AI continues to evolve, it is crucial to focus on improving our own well-being and reducing our carbon footprint.</s>
+Generated in 0:00:07.985477
+PromptTokens: Prompt Tokens: 69   Output Tokens: Out Tkns: 366  Total Tokens: Total Tkns: 435
+
+---
+
+
+time: 2023-12-14 13:15:14.679401
+ Temp: 0.42 - MaxNewTokens: 900 - RepPenalty: 1.2 
+PROMPT: 
+Use the following context to  reply the user question. If the context does not contain the information for the answer, reply "I cannot reply!".
+[context]
+The Diary of a Young Girl, often referred to as The Diary of Anne Frank, is a book of the writings from the Dutch-language diary kept by Anne Frank while she was in hiding for two years with her family during the Nazi occupation of the Netherlands. The family was apprehended in 1944, and Anne Frank died of typhus in the Bergen-Belsen concentration camp in 1945. Anne's diaries were retrieved by Miep Gies and Bep Voskuijl. Miep gave them to Anne's father, Otto Frank, the family's only survivor, just after the Second World War was over.
+The diary has since been published in more than 70 languages. First published under the title Het Achterhuis. Dagboekbrieven 14 Juni 1942 – 1 Augustus 1944 (The Annex: Diary Notes 14 June 1942 – 1 August 1944) by Contact Publishing [nl] in Amsterdam in 1947, the diary received widespread critical and popular attention on the appearance of its English language translation, Anne Frank: The Diary of a Young Girl by Doubleday & Company (United States) and Vallentine Mitchell (United Kingdom) in 1952. Its popularity inspired the 1955 play The Diary of Anne Frank by the screenwriters Frances Goodrich and Albert Hackett, which they adapted for the screen for the 1959 movie version. The book is included in several lists of the top books of the 20th century
+In the manuscript, her original diaries are written over three extant volumes. The first volume (the red-and-white checkered autograph book) covers the period between 14 June and 5 December 1942. Since the second surviving volume (a school exercise book) begins on 22 December 1943, and ends on 17 April 1944, it is assumed that the original volume or volumes between December 1942 and December 1943 were lost, presumably after the arrest, when the hiding place was emptied on Nazi instructions. However, this missing period is covered in the version Anne rewrote for preservation. The third existing volume (which was also a school exercise book) contains entries from 17 April to 1 August 1944, when Anne wrote for the last time three days before her arrest. 
+The manuscript, written on loose sheets of paper, was found strewn on the floor of the hiding place by Miep Gies and Bep Voskuijl after the family's arrest,[22] but before their rooms were ransacked by a special department of the Amsterdam office of the Sicherheitsdienst (SD, Nazi intelligence agency) for which many Dutch collaborators worked.[23] The papers were given to Otto Frank after the war, when Anne's death was confirmed in July 1945 by sisters Janny and Lien Brilleslijper, who were with Margot and Anne in Bergen-Belsen.
+[end of context]
+
+Question: How was Anne Frank’s diary discovered?
+
+LaMini77M: <pad> Anne Frank's diary was discovered by Miep Gies and Bep Voskuijl.</s>
+Generated in 0:00:00.928350
+PromptTokens: Prompt Tokens: 676   Output Tokens: Out Tkns: 25  Total Tokens: Total Tkns: 701
+
+---
+
+
